@@ -1,0 +1,4452 @@
+{
+  "data":[
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 1,
+   "IRDNT_NM": "쌀",
+   "IRDNT_CPCTY": "4컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 2,
+   "IRDNT_NM": "안심",
+   "IRDNT_CPCTY": "200g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 3,
+   "IRDNT_NM": "콩나물",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 4,
+   "IRDNT_NM": "청포묵",
+   "IRDNT_CPCTY": "1/2모",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 5,
+   "IRDNT_NM": "미나리",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 6,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 7,
+   "IRDNT_NM": "국간장",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 8,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 9,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 10,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 11,
+   "IRDNT_NM": "고추장",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 12,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 13,
+   "IRDNT_NM": "숙주",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 14,
+   "IRDNT_NM": "도라지",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 15,
+   "IRDNT_NM": "고사리",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 16,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 1,
+   "IRDNT_SN": 17,
+   "IRDNT_NM": "양지머리",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 2,
+   "IRDNT_SN": 18,
+   "IRDNT_NM": "멥쌀",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 2,
+   "IRDNT_SN": 19,
+   "IRDNT_NM": "찹쌀",
+   "IRDNT_CPCTY": "2컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 2,
+   "IRDNT_SN": 20,
+   "IRDNT_NM": "수수",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 2,
+   "IRDNT_SN": 21,
+   "IRDNT_NM": "차조",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 2,
+   "IRDNT_SN": 22,
+   "IRDNT_NM": "콩",
+   "IRDNT_CPCTY": "1/2컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 2,
+   "IRDNT_SN": 23,
+   "IRDNT_NM": "팥",
+   "IRDNT_CPCTY": "1/2컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 2,
+   "IRDNT_SN": 24,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 25,
+   "IRDNT_NM": "당면",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 26,
+   "IRDNT_NM": "돼지고기",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 27,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "2장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 28,
+   "IRDNT_NM": "호박",
+   "IRDNT_CPCTY": "1/4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 29,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 30,
+   "IRDNT_NM": "부추",
+   "IRDNT_CPCTY": "30g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 31,
+   "IRDNT_NM": "청고추",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 32,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 33,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 34,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 35,
+   "IRDNT_NM": "진간장",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 36,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 37,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 38,
+   "IRDNT_NM": "밥",
+   "IRDNT_CPCTY": "3공기",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 3,
+   "IRDNT_SN": 39,
+   "IRDNT_NM": "통후추",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 40,
+   "IRDNT_NM": "쌀",
+   "IRDNT_CPCTY": "2컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 41,
+   "IRDNT_NM": "콩나물",
+   "IRDNT_CPCTY": "300g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 42,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 43,
+   "IRDNT_NM": "파",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 44,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "2쪽",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 45,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 46,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 47,
+   "IRDNT_NM": "고춧가루",
+   "IRDNT_CPCTY": "조금",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 48,
+   "IRDNT_NM": "진간장",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 49,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 4,
+   "IRDNT_SN": 50,
+   "IRDNT_NM": "통후추",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 51,
+   "IRDNT_NM": "찹쌀",
+   "IRDNT_CPCTY": "3컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 52,
+   "IRDNT_NM": "흑설탕",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 53,
+   "IRDNT_NM": "계핏가루",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 54,
+   "IRDNT_NM": "깐밤",
+   "IRDNT_CPCTY": "200g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 55,
+   "IRDNT_NM": "대추",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 56,
+   "IRDNT_NM": "잣",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 57,
+   "IRDNT_NM": "물엿",
+   "IRDNT_CPCTY": "적당량",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 58,
+   "IRDNT_NM": "식물성기름",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 59,
+   "IRDNT_NM": "흰설탕",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 60,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1/3컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 5,
+   "IRDNT_SN": 61,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "4컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 6,
+   "IRDNT_SN": 62,
+   "IRDNT_NM": "청동호박",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 6,
+   "IRDNT_SN": 63,
+   "IRDNT_NM": "팥",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 6,
+   "IRDNT_SN": 64,
+   "IRDNT_NM": "찹쌀",
+   "IRDNT_CPCTY": "2컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 6,
+   "IRDNT_SN": 65,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "10컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 6,
+   "IRDNT_SN": 66,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 6,
+   "IRDNT_SN": 67,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 7,
+   "IRDNT_SN": 68,
+   "IRDNT_NM": "쌀",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 7,
+   "IRDNT_SN": 69,
+   "IRDNT_NM": "흑임자",
+   "IRDNT_CPCTY": "1/2컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 7,
+   "IRDNT_SN": 70,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "6컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 7,
+   "IRDNT_SN": 71,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 7,
+   "IRDNT_SN": 72,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 73,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "200g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 74,
+   "IRDNT_NM": "감자",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 75,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 76,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 77,
+   "IRDNT_NM": "완두콩",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 78,
+   "IRDNT_NM": "카레",
+   "IRDNT_CPCTY": "70g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 79,
+   "IRDNT_NM": "우유",
+   "IRDNT_CPCTY": "1/2컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 80,
+   "IRDNT_NM": "밥",
+   "IRDNT_CPCTY": "4공기",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 81,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 8,
+   "IRDNT_SN": 82,
+   "IRDNT_NM": "통후추",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 83,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "3개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 84,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1/4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 85,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "3컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 86,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/3개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 87,
+   "IRDNT_NM": "쌈장",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 88,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 89,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 90,
+   "IRDNT_NM": "밥",
+   "IRDNT_CPCTY": "2공기",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 91,
+   "IRDNT_NM": "청피망",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 92,
+   "IRDNT_NM": "홍피망",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 93,
+   "IRDNT_NM": "오이",
+   "IRDNT_CPCTY": "1/3개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 94,
+   "IRDNT_NM": "전분",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 95,
+   "IRDNT_NM": "멸치",
+   "IRDNT_CPCTY": "한 줌",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 9,
+   "IRDNT_SN": 96,
+   "IRDNT_NM": "다시마",
+   "IRDNT_CPCTY": "1장",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 97,
+   "IRDNT_NM": "밀가루",
+   "IRDNT_CPCTY": "4컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 98,
+   "IRDNT_NM": "감자",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 99,
+   "IRDNT_NM": "애호박",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 100,
+   "IRDNT_NM": "멸치",
+   "IRDNT_CPCTY": "10마리",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 101,
+   "IRDNT_NM": "실파",
+   "IRDNT_CPCTY": "2뿌리",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 102,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 103,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 104,
+   "IRDNT_NM": "양념장",
+   "IRDNT_CPCTY": "적당량",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 105,
+   "IRDNT_NM": "국간장",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 106,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 10,
+   "IRDNT_SN": 107,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 108,
+   "IRDNT_NM": "냉면",
+   "IRDNT_CPCTY": "400g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 109,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "300g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 110,
+   "IRDNT_NM": "동치미국물",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 111,
+   "IRDNT_NM": "오이",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 112,
+   "IRDNT_NM": "배",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 113,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 114,
+   "IRDNT_NM": "식초",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 115,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 116,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 117,
+   "IRDNT_NM": "쇠고기육수",
+   "IRDNT_CPCTY": "4컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 11,
+   "IRDNT_SN": 118,
+   "IRDNT_NM": "동치미무",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 119,
+   "IRDNT_NM": "국수",
+   "IRDNT_CPCTY": "400g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 120,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 121,
+   "IRDNT_NM": "동치미무",
+   "IRDNT_CPCTY": "1/4개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 122,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 123,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 124,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 125,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 126,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 127,
+   "IRDNT_NM": "동치미국물",
+   "IRDNT_CPCTY": "8컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 128,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 129,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1/4작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 12,
+   "IRDNT_SN": 130,
+   "IRDNT_NM": "통후추",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 131,
+   "IRDNT_NM": "열무",
+   "IRDNT_CPCTY": "1/2단",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 132,
+   "IRDNT_NM": "찹쌀가루",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 133,
+   "IRDNT_NM": "냉면",
+   "IRDNT_CPCTY": "500g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 134,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 135,
+   "IRDNT_NM": "청고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 136,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 137,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 138,
+   "IRDNT_NM": "다진생강",
+   "IRDNT_CPCTY": "1/2작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 139,
+   "IRDNT_NM": "고춧가루",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 140,
+   "IRDNT_NM": "식초",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 141,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 142,
+   "IRDNT_NM": "겨자",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 13,
+   "IRDNT_SN": 143,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 144,
+   "IRDNT_NM": "국수",
+   "IRDNT_CPCTY": "200g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 145,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "3장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 146,
+   "IRDNT_NM": "오이",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 147,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 148,
+   "IRDNT_NM": "부추",
+   "IRDNT_CPCTY": "1/3단",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 149,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 150,
+   "IRDNT_NM": "양념장",
+   "IRDNT_CPCTY": "적당량",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 151,
+   "IRDNT_NM": "상추",
+   "IRDNT_CPCTY": "6장",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 14,
+   "IRDNT_SN": 152,
+   "IRDNT_NM": "깻잎",
+   "IRDNT_CPCTY": "15장",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 153,
+   "IRDNT_NM": "국수",
+   "IRDNT_CPCTY": "400g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 154,
+   "IRDNT_NM": "돼지고기",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 155,
+   "IRDNT_NM": "녹말",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 156,
+   "IRDNT_NM": "계란흰자",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 157,
+   "IRDNT_NM": "오징어",
+   "IRDNT_CPCTY": "1/2마리",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 158,
+   "IRDNT_NM": "새우",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 159,
+   "IRDNT_NM": "홍합",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 160,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 161,
+   "IRDNT_NM": "죽순",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 162,
+   "IRDNT_NM": "파",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 163,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 164,
+   "IRDNT_NM": "멸칫국물",
+   "IRDNT_CPCTY": "8컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 165,
+   "IRDNT_NM": "청주",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 15,
+   "IRDNT_SN": 166,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 167,
+   "IRDNT_NM": "김치",
+   "IRDNT_CPCTY": "1/2포기",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 168,
+   "IRDNT_NM": "숙주",
+   "IRDNT_CPCTY": "150g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 169,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "4장",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 170,
+   "IRDNT_NM": "두부",
+   "IRDNT_CPCTY": "1/2모",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 171,
+   "IRDNT_NM": "만두피",
+   "IRDNT_CPCTY": "40장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 172,
+   "IRDNT_NM": "육수",
+   "IRDNT_CPCTY": "7컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 173,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "40g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 174,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 175,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 176,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 177,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 178,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 179,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 180,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 16,
+   "IRDNT_SN": 181,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 182,
+   "IRDNT_NM": "다시마",
+   "IRDNT_CPCTY": "2장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 183,
+   "IRDNT_NM": "오이",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 184,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 185,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "1/2작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 186,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1/4작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 187,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 188,
+   "IRDNT_NM": "고춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 189,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 17,
+   "IRDNT_SN": 190,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "5컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 191,
+   "IRDNT_NM": "두부",
+   "IRDNT_CPCTY": "1모",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 192,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 193,
+   "IRDNT_NM": "파",
+   "IRDNT_CPCTY": "1뿌리",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 194,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 195,
+   "IRDNT_NM": "고추장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 196,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 197,
+   "IRDNT_NM": "진간장",
+   "IRDNT_CPCTY": "조금",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 198,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "조금",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 18,
+   "IRDNT_SN": 199,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "조금",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 200,
+   "IRDNT_NM": "두부",
+   "IRDNT_CPCTY": "1/2모",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 201,
+   "IRDNT_NM": "콩나물",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 202,
+   "IRDNT_NM": "모시조개",
+   "IRDNT_CPCTY": "200g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 203,
+   "IRDNT_NM": "북어",
+   "IRDNT_CPCTY": "30g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 204,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 205,
+   "IRDNT_NM": "실파",
+   "IRDNT_CPCTY": "3뿌리",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 206,
+   "IRDNT_NM": "밀가루",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 207,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 208,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 209,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 19,
+   "IRDNT_SN": 210,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 211,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "120g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 212,
+   "IRDNT_NM": "무",
+   "IRDNT_CPCTY": "400g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 213,
+   "IRDNT_NM": "실파",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 214,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 215,
+   "IRDNT_NM": "국간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 216,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 217,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 218,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 20,
+   "IRDNT_SN": 219,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "5컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 21,
+   "IRDNT_SN": 220,
+   "IRDNT_NM": "미역",
+   "IRDNT_CPCTY": "2컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 21,
+   "IRDNT_SN": 221,
+   "IRDNT_NM": "다진쇠고기",
+   "IRDNT_CPCTY": "150g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 21,
+   "IRDNT_SN": 222,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 21,
+   "IRDNT_SN": 223,
+   "IRDNT_NM": "식용유",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 21,
+   "IRDNT_SN": 224,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 21,
+   "IRDNT_SN": 225,
+   "IRDNT_NM": "국간장",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 21,
+   "IRDNT_SN": 226,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 21,
+   "IRDNT_SN": 227,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "10컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 228,
+   "IRDNT_NM": "불린미역",
+   "IRDNT_CPCTY": "2컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 229,
+   "IRDNT_NM": "오이",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 230,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "1/2뿌리",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 231,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1/2작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 232,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 233,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 234,
+   "IRDNT_NM": "고춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 235,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 22,
+   "IRDNT_SN": 236,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "10컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 237,
+   "IRDNT_NM": "생태",
+   "IRDNT_CPCTY": "1마리",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 238,
+   "IRDNT_NM": "미나리",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 239,
+   "IRDNT_NM": "콩나물",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 240,
+   "IRDNT_NM": "무",
+   "IRDNT_CPCTY": "1/4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 241,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 242,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "2쪽",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 243,
+   "IRDNT_NM": "쌀뜨물",
+   "IRDNT_CPCTY": "10컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 244,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 23,
+   "IRDNT_SN": 245,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 246,
+   "IRDNT_NM": "연어",
+   "IRDNT_CPCTY": "6조각",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 247,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 248,
+   "IRDNT_NM": "레몬즙",
+   "IRDNT_CPCTY": "40g",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 249,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 250,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 251,
+   "IRDNT_NM": "양송이버섯",
+   "IRDNT_CPCTY": "4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 252,
+   "IRDNT_NM": "올리브오일",
+   "IRDNT_CPCTY": "60g",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 253,
+   "IRDNT_NM": "방울토마토",
+   "IRDNT_CPCTY": "4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 254,
+   "IRDNT_NM": "페스토소스",
+   "IRDNT_CPCTY": "만드는법 참조",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 255,
+   "IRDNT_NM": "모듬채소",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 24,
+   "IRDNT_SN": 256,
+   "IRDNT_NM": "차이브",
+   "IRDNT_CPCTY": "4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 257,
+   "IRDNT_NM": "오이",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 258,
+   "IRDNT_NM": "파",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 259,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 260,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 261,
+   "IRDNT_NM": "식초",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 262,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 263,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 264,
+   "IRDNT_NM": "고춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 265,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "10컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 266,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "1대",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 267,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 268,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "4컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 25,
+   "IRDNT_SN": 269,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 270,
+   "IRDNT_NM": "삶은 문어살",
+   "IRDNT_CPCTY": "80g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 271,
+   "IRDNT_NM": "갑오징어",
+   "IRDNT_CPCTY": "80g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 272,
+   "IRDNT_NM": "꼴뚜기",
+   "IRDNT_CPCTY": "80g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 273,
+   "IRDNT_NM": "중새우살",
+   "IRDNT_CPCTY": "6개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 274,
+   "IRDNT_NM": "쭈꾸미",
+   "IRDNT_CPCTY": "4개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 275,
+   "IRDNT_NM": "참소라살",
+   "IRDNT_CPCTY": "60g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 276,
+   "IRDNT_NM": "모시조개",
+   "IRDNT_CPCTY": "10개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 277,
+   "IRDNT_NM": "가리비",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 278,
+   "IRDNT_NM": "검은껍질홍합",
+   "IRDNT_CPCTY": "10개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 279,
+   "IRDNT_NM": "가재새우",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 280,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "60g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 281,
+   "IRDNT_NM": "샐러리",
+   "IRDNT_CPCTY": "40g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 282,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "40g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 283,
+   "IRDNT_NM": "루콜라",
+   "IRDNT_CPCTY": "40g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 284,
+   "IRDNT_NM": "트레비소",
+   "IRDNT_CPCTY": "4잎",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 26,
+   "IRDNT_SN": 285,
+   "IRDNT_NM": "소스",
+   "IRDNT_CPCTY": "",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 27,
+   "IRDNT_SN": 286,
+   "IRDNT_NM": "재첩",
+   "IRDNT_CPCTY": "10컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 27,
+   "IRDNT_SN": 287,
+   "IRDNT_NM": "부추",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 27,
+   "IRDNT_SN": 288,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "4컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 27,
+   "IRDNT_SN": 289,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 290,
+   "IRDNT_NM": "도미",
+   "IRDNT_CPCTY": "300g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 291,
+   "IRDNT_NM": "감자",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 292,
+   "IRDNT_NM": "방울토마토",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 293,
+   "IRDNT_NM": "바질",
+   "IRDNT_CPCTY": "10g",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 294,
+   "IRDNT_NM": "블랙올리브",
+   "IRDNT_CPCTY": "40g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 295,
+   "IRDNT_NM": "케이퍼",
+   "IRDNT_CPCTY": "15g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 296,
+   "IRDNT_NM": "스위트마조람",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 297,
+   "IRDNT_NM": "올리브오일",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 298,
+   "IRDNT_NM": "화이트와인",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 299,
+   "IRDNT_NM": "계란노른자",
+   "IRDNT_CPCTY": "적량",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 300,
+   "IRDNT_NM": "오레가노",
+   "IRDNT_CPCTY": "20g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 28,
+   "IRDNT_SN": 301,
+   "IRDNT_NM": "그린올리브",
+   "IRDNT_CPCTY": "10g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 302,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "600g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 303,
+   "IRDNT_NM": "햇살담은간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 304,
+   "IRDNT_NM": "실파",
+   "IRDNT_CPCTY": "1단",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 305,
+   "IRDNT_NM": "느타리버섯",
+   "IRDNT_CPCTY": "300g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 306,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 307,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 308,
+   "IRDNT_NM": "꼬치",
+   "IRDNT_CPCTY": "8개",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 309,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 310,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 311,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 312,
+   "IRDNT_NM": "꿀",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 313,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 314,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 315,
+   "IRDNT_NM": "배즙",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 29,
+   "IRDNT_SN": 316,
+   "IRDNT_NM": "생강즙",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 317,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "400g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 318,
+   "IRDNT_NM": "양송이버섯",
+   "IRDNT_CPCTY": "200g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 319,
+   "IRDNT_NM": "피망",
+   "IRDNT_CPCTY": "4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 320,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 321,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "3톨",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 322,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 323,
+   "IRDNT_NM": "물엿",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 324,
+   "IRDNT_NM": "토마토케첩",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 325,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 326,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 327,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 30,
+   "IRDNT_SN": 328,
+   "IRDNT_NM": "식용유",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 31,
+   "IRDNT_SN": 329,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "10컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 31,
+   "IRDNT_SN": 330,
+   "IRDNT_NM": "팥",
+   "IRDNT_CPCTY": "2컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 31,
+   "IRDNT_SN": 331,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 31,
+   "IRDNT_SN": 332,
+   "IRDNT_NM": "밀가루",
+   "IRDNT_CPCTY": "4컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 31,
+   "IRDNT_SN": 333,
+   "IRDNT_NM": "날콩가루",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 334,
+   "IRDNT_NM": "죽순",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 335,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "8장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 336,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "1뿌리",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 337,
+   "IRDNT_NM": "식용유",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 338,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "조금",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 339,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 340,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 341,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 342,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 343,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 344,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 32,
+   "IRDNT_SN": 345,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 346,
+   "IRDNT_NM": "부추",
+   "IRDNT_CPCTY": "1단",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 347,
+   "IRDNT_NM": "돼지고기",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 348,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "4장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 349,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "1뿌리",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 350,
+   "IRDNT_NM": "생강",
+   "IRDNT_CPCTY": "1/2쪽",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 351,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 352,
+   "IRDNT_NM": "청주",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 353,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 33,
+   "IRDNT_SN": 354,
+   "IRDNT_NM": "식용유",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 355,
+   "IRDNT_NM": "상추잎",
+   "IRDNT_CPCTY": "10장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 356,
+   "IRDNT_NM": "두부",
+   "IRDNT_CPCTY": "1/2모",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 357,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 358,
+   "IRDNT_NM": "꿀",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 359,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 360,
+   "IRDNT_NM": "레몬즙",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 361,
+   "IRDNT_NM": "연겨자",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 362,
+   "IRDNT_NM": "적양배추잎",
+   "IRDNT_CPCTY": "5장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 363,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 34,
+   "IRDNT_SN": 364,
+   "IRDNT_NM": "파프리카",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 35,
+   "IRDNT_SN": 365,
+   "IRDNT_NM": "콩나물",
+   "IRDNT_CPCTY": "600g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 35,
+   "IRDNT_SN": 366,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 35,
+   "IRDNT_SN": 367,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1과1/2작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 35,
+   "IRDNT_SN": 368,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 35,
+   "IRDNT_SN": 369,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 35,
+   "IRDNT_SN": 370,
+   "IRDNT_NM": "실고추",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 35,
+   "IRDNT_SN": 371,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 35,
+   "IRDNT_SN": 372,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 36,
+   "IRDNT_SN": 373,
+   "IRDNT_NM": "우엉",
+   "IRDNT_CPCTY": "400g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 36,
+   "IRDNT_SN": 374,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 36,
+   "IRDNT_SN": 375,
+   "IRDNT_NM": "물엿",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 36,
+   "IRDNT_SN": 376,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 36,
+   "IRDNT_SN": 377,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 36,
+   "IRDNT_SN": 378,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 37,
+   "IRDNT_SN": 379,
+   "IRDNT_NM": "두부",
+   "IRDNT_CPCTY": "1모",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 37,
+   "IRDNT_SN": 380,
+   "IRDNT_NM": "토마토",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 37,
+   "IRDNT_SN": 381,
+   "IRDNT_NM": "바질",
+   "IRDNT_CPCTY": "20장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 37,
+   "IRDNT_SN": 382,
+   "IRDNT_NM": "다진양파",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 37,
+   "IRDNT_SN": 383,
+   "IRDNT_NM": "식초",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 37,
+   "IRDNT_SN": 384,
+   "IRDNT_NM": "참빛고운포도씨유",
+   "IRDNT_CPCTY": "5큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 37,
+   "IRDNT_SN": 385,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 37,
+   "IRDNT_SN": 386,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 38,
+   "IRDNT_SN": 387,
+   "IRDNT_NM": "잔멸치",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 38,
+   "IRDNT_SN": 388,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 38,
+   "IRDNT_SN": 389,
+   "IRDNT_NM": "청고추",
+   "IRDNT_CPCTY": "4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 38,
+   "IRDNT_SN": 390,
+   "IRDNT_NM": "식용유",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 38,
+   "IRDNT_SN": 391,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 38,
+   "IRDNT_SN": 392,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 38,
+   "IRDNT_SN": 393,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 38,
+   "IRDNT_SN": 394,
+   "IRDNT_NM": "청주",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 395,
+   "IRDNT_NM": "갈치",
+   "IRDNT_CPCTY": "1마리",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 396,
+   "IRDNT_NM": "무",
+   "IRDNT_CPCTY": "1/4개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 397,
+   "IRDNT_NM": "감자",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 398,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 399,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "1/2뿌리",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 400,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 401,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 402,
+   "IRDNT_NM": "고추장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 403,
+   "IRDNT_NM": "고춧가루",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 404,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "2톨",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 405,
+   "IRDNT_NM": "생강",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 406,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 407,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 39,
+   "IRDNT_SN": 408,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 409,
+   "IRDNT_NM": "닭",
+   "IRDNT_CPCTY": "1마리",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 410,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "5큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 411,
+   "IRDNT_NM": "고추장",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 412,
+   "IRDNT_NM": "고춧가루",
+   "IRDNT_CPCTY": "1과1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 413,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "1뿌리",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 414,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "3쪽",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 415,
+   "IRDNT_NM": "생강즙",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 416,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 40,
+   "IRDNT_SN": 417,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 418,
+   "IRDNT_NM": "다시마",
+   "IRDNT_CPCTY": "1장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 419,
+   "IRDNT_NM": "두부",
+   "IRDNT_CPCTY": "1모",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 420,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "5장",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 421,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/4개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 422,
+   "IRDNT_NM": "고추",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 423,
+   "IRDNT_NM": "들깨가루",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 424,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 425,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 426,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 427,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 428,
+   "IRDNT_NM": "초고추장",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 41,
+   "IRDNT_SN": 429,
+   "IRDNT_NM": "양념간장",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 42,
+   "IRDNT_SN": 430,
+   "IRDNT_NM": "칼국수면",
+   "IRDNT_CPCTY": "300g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 42,
+   "IRDNT_SN": 431,
+   "IRDNT_NM": "팥",
+   "IRDNT_CPCTY": "3컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 42,
+   "IRDNT_SN": 432,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "15컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 42,
+   "IRDNT_SN": 433,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 42,
+   "IRDNT_SN": 434,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 435,
+   "IRDNT_NM": "콩나물",
+   "IRDNT_CPCTY": "400g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 436,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "100g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 437,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "4장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 438,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 439,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 440,
+   "IRDNT_NM": "미나리",
+   "IRDNT_CPCTY": "1단",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 441,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 442,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 443,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 444,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 445,
+   "IRDNT_NM": "식용유",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 446,
+   "IRDNT_NM": "진간장",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 447,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "2작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 448,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 449,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 43,
+   "IRDNT_SN": 450,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 451,
+   "IRDNT_NM": "양배추잎",
+   "IRDNT_CPCTY": "8장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 452,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "300g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 453,
+   "IRDNT_NM": "밤",
+   "IRDNT_CPCTY": "8개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 454,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 455,
+   "IRDNT_NM": "육수",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 456,
+   "IRDNT_NM": "녹말",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 457,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 458,
+   "IRDNT_NM": "무명실",
+   "IRDNT_CPCTY": "8개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 459,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 460,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 461,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 462,
+   "IRDNT_NM": "청주",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 463,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 464,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 465,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 466,
+   "IRDNT_NM": "파슬리가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 44,
+   "IRDNT_SN": 467,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 45,
+   "IRDNT_SN": 468,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "10통",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 45,
+   "IRDNT_SN": 469,
+   "IRDNT_NM": "물",
+   "IRDNT_CPCTY": "15컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 45,
+   "IRDNT_SN": 470,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "1/2컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 45,
+   "IRDNT_SN": 471,
+   "IRDNT_NM": "식초",
+   "IRDNT_CPCTY": "5컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 45,
+   "IRDNT_SN": 472,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1/2컵",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 473,
+   "IRDNT_NM": "오징어",
+   "IRDNT_CPCTY": "2마리",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 474,
+   "IRDNT_NM": "고추장",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 475,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 476,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 477,
+   "IRDNT_NM": "물엿",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 478,
+   "IRDNT_NM": "생강즙",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 479,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 480,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 481,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 482,
+   "IRDNT_NM": "고춧가루",
+   "IRDNT_CPCTY": "1/2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 46,
+   "IRDNT_SN": 483,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 484,
+   "IRDNT_NM": "대구살",
+   "IRDNT_CPCTY": "300g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 485,
+   "IRDNT_NM": "생강즙",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 486,
+   "IRDNT_NM": "식용유",
+   "IRDNT_CPCTY": "3컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 487,
+   "IRDNT_NM": "육수",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 488,
+   "IRDNT_NM": "목이버섯",
+   "IRDNT_CPCTY": "30g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 489,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1/2개씩",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 490,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/2개씩",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 491,
+   "IRDNT_NM": "피망",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 492,
+   "IRDNT_NM": "파인애플",
+   "IRDNT_CPCTY": "1쪽",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 493,
+   "IRDNT_NM": "식초",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 494,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 495,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 496,
+   "IRDNT_NM": "녹말",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 497,
+   "IRDNT_NM": "청주",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 498,
+   "IRDNT_NM": "토마토케첩",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 499,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "1쪽",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 500,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 501,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "조금씩",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 47,
+   "IRDNT_SN": 502,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "조금씩",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 503,
+   "IRDNT_NM": "갈비",
+   "IRDNT_CPCTY": "1.2kg",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 504,
+   "IRDNT_NM": "배즙",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 505,
+   "IRDNT_NM": "양파즙",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 506,
+   "IRDNT_NM": "물엿",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 507,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 508,
+   "IRDNT_NM": "통깨",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 509,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 510,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 511,
+   "IRDNT_NM": "청주",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 512,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1/4컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 513,
+   "IRDNT_NM": "육수",
+   "IRDNT_CPCTY": "1/4컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 514,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "1/2뿌리",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 515,
+   "IRDNT_NM": "마늘",
+   "IRDNT_CPCTY": "3쪽",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 516,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 517,
+   "IRDNT_NM": "상추",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 518,
+   "IRDNT_NM": "깻잎",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 519,
+   "IRDNT_NM": "생강즙",
+   "IRDNT_CPCTY": "1작은술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 48,
+   "IRDNT_SN": 520,
+   "IRDNT_NM": "월계수잎",
+   "IRDNT_CPCTY": "3장",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 521,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 522,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 523,
+   "IRDNT_NM": "통마늘",
+   "IRDNT_CPCTY": "3톨",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 524,
+   "IRDNT_NM": "육수",
+   "IRDNT_CPCTY": "2컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 525,
+   "IRDNT_NM": "버터",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 526,
+   "IRDNT_NM": "샐러리",
+   "IRDNT_CPCTY": "2대",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 527,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "50g",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 528,
+   "IRDNT_NM": "양파",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 529,
+   "IRDNT_NM": "밀가루",
+   "IRDNT_CPCTY": "1/2컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 530,
+   "IRDNT_NM": "월계수잎",
+   "IRDNT_CPCTY": "2장",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 531,
+   "IRDNT_NM": "돼기고기",
+   "IRDNT_CPCTY": "400g",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 532,
+   "IRDNT_NM": "레드와인",
+   "IRDNT_CPCTY": "3큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 533,
+   "IRDNT_NM": "토마토케찹",
+   "IRDNT_CPCTY": "5큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 534,
+   "IRDNT_NM": "빵가루",
+   "IRDNT_CPCTY": "3컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 535,
+   "IRDNT_NM": "식용유",
+   "IRDNT_CPCTY": "3컵",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 536,
+   "IRDNT_NM": "소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 49,
+   "IRDNT_SN": 537,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 538,
+   "IRDNT_NM": "쇠고기",
+   "IRDNT_CPCTY": "1.2kg",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 539,
+   "IRDNT_NM": "무",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 540,
+   "IRDNT_NM": "당근",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 541,
+   "IRDNT_NM": "표고버섯",
+   "IRDNT_CPCTY": "8장",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 542,
+   "IRDNT_NM": "밤",
+   "IRDNT_CPCTY": "8개",
+   "IRDNT_TY_CODE": 3060001,
+   "IRDNT_TY_NM": "주재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 543,
+   "IRDNT_NM": "계란",
+   "IRDNT_CPCTY": "1개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 544,
+   "IRDNT_NM": "홍고추",
+   "IRDNT_CPCTY": "2개",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 545,
+   "IRDNT_NM": "은행",
+   "IRDNT_CPCTY": "8알",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 546,
+   "IRDNT_NM": "잣",
+   "IRDNT_CPCTY": "1큰술",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 547,
+   "IRDNT_NM": "간장",
+   "IRDNT_CPCTY": "1컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 548,
+   "IRDNT_NM": "설탕",
+   "IRDNT_CPCTY": "1/2컵",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 549,
+   "IRDNT_NM": "청주",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 550,
+   "IRDNT_NM": "배",
+   "IRDNT_CPCTY": "1/2개",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 551,
+   "IRDNT_NM": "다진파",
+   "IRDNT_CPCTY": "4큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 552,
+   "IRDNT_NM": "다진마늘",
+   "IRDNT_CPCTY": "2큰술",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 553,
+   "IRDNT_NM": "깨소금",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 554,
+   "IRDNT_NM": "참기름",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 555,
+   "IRDNT_NM": "후춧가루",
+   "IRDNT_CPCTY": "약간",
+   "IRDNT_TY_CODE": 3060003,
+   "IRDNT_TY_NM": "양념"
+ },
+ {
+   "RECIPE_ID": 50,
+   "IRDNT_SN": 556,
+   "IRDNT_NM": "대파",
+   "IRDNT_CPCTY": "2대",
+   "IRDNT_TY_CODE": 3060002,
+   "IRDNT_TY_NM": "부재료"
+ }
+]
+}

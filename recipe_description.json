@@ -1,0 +1,1859 @@
+{
+  "data": [
+ {
+   "RECIPE_ID": 1,
+   "COOKING_NO": 1,
+   "COOKING_DC": "양지머리로 육수를 낸 후 식혀 기름을 걷어낸 후, 불린 쌀을 넣어 고슬고슬하게 밥을 짓는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/000200_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 1,
+   "COOKING_NO": 2,
+   "COOKING_DC": "안심은 불고기 양념하여 30분간 재워 국물 없이 구워 한 김 식으면 한입 크기로 자른다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/000200_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 1,
+   "COOKING_NO": 3,
+   "COOKING_DC": "청포묵은 고기와 비슷한 크기로 잘라 끓는 물에 데쳐내고 계란은 노른자와 흰자를 분리해 지단부쳐 곱게 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 1,
+   "COOKING_NO": 4,
+   "COOKING_DC": "콩나물과 숙주, 미나리는 데쳐서 국간장과 참기름으로 간하고, 고사리와 도라지는 참기름을 두른 프라이팬에 살짝 볶아놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 1,
+   "COOKING_NO": 5,
+   "COOKING_DC": "밥을 참기름으로 무쳐 그릇에 담고 준비한 재료를 고루 얹는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 2,
+   "COOKING_NO": 1,
+   "COOKING_DC": "찹쌀과 멥쌀은 깨끗이 씻어 건져 놓는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/000300_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 2,
+   "COOKING_NO": 2,
+   "COOKING_DC": "차수수는 붉은 물이 안 나올 때까지 깨끗이 씻어 놓는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/000300_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 2,
+   "COOKING_NO": 3,
+   "COOKING_DC": "콩은 불려서 일어 건져놓고, 팥은 삶아서 건져놓고 삶은 물은 받아 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 2,
+   "COOKING_NO": 4,
+   "COOKING_DC": "차조는 씻어서 잘 일은 후 건져놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 2,
+   "COOKING_NO": 5,
+   "COOKING_DC": "차조를 뺀 모든 재료를 고루 섞어 밥솥에 앉혀 놓고 팥 삶은 물에 소금(1/3작은술 정도)을 넣은 밥물을 붓는데, 밥물은 보통 짓는 밥물보다 20% 적게 붓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 2,
+   "COOKING_NO": 6,
+   "COOKING_DC": "밥이 끓기 시작하면 차조를 고루 얹어 뜸을 들인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 3,
+   "COOKING_NO": 1,
+   "COOKING_DC": "당면은 따뜻한 물에 불려 적당한 길이로 자른다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 3,
+   "COOKING_NO": 2,
+   "COOKING_DC": "고기와 버섯, 채소는 모두 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 3,
+   "COOKING_NO": 3,
+   "COOKING_DC": "달군 팬에 기름을 두르고 고기와, 버섯, 당근, 고추, 호박을 볶다가 숨이 죽으면 부추를 넣는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 3,
+   "COOKING_NO": 4,
+   "COOKING_DC": "다진 파, 마늘, 생강을 넣고 소금과 통후추, 진간장을 넣어 간을 한 다음 당면을 넣어 볶아준다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 3,
+   "COOKING_NO": 5,
+   "COOKING_DC": "뜨거운 밥을 그릇에 담고 잡채를 얹어 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 4,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쌀은 미리 씻어 불려놓고 콩나물은 씻어 소금물에 살짝 데쳐 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 4,
+   "COOKING_NO": 2,
+   "COOKING_DC": "쇠고기는 곱게 다져 파, 마늘, 진간장으로 양념하여 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 4,
+   "COOKING_NO": 3,
+   "COOKING_DC": "콩나물 삶은 물을 냄비에 붓고 쌀을 앉혀 밥을 짓다가 끓으면 삶은 콩나물과 쇠고기를 얹어 뜸들인다",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 4,
+   "COOKING_NO": 4,
+   "COOKING_DC": "뜸이 들면 고루 섞어 그릇에 담고 양념장과 함께 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 5,
+   "COOKING_NO": 1,
+   "COOKING_DC": "흰 설탕에 물을 붓고 끓이다가 거품이 일면서 한 부분부터 타기 시작하면 불을 끈다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 5,
+   "COOKING_NO": 2,
+   "COOKING_DC": "압력솥에 물기 뺀 쌀을 담고 분량의 흑설탕, 간장, 참기름, 식물성기름, 계핏가루를 넣고 ①에서 만든 카라멜소스를 부어 물이들게 고루 섞는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 5,
+   "COOKING_NO": 3,
+   "COOKING_DC": "②에 밤, 대추, 잣을 넣고 섞는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 5,
+   "COOKING_NO": 4,
+   "COOKING_DC": "물 3컵을 붓고 센불로 가열하다가 끓기 시작하면 중불로 줄여 30분 지난뒤 불을 끄고 남은 열로 뜸들인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 6,
+   "COOKING_NO": 1,
+   "COOKING_DC": "청동호박은 반을 갈라 씨를 빼고 껍질을 벗긴다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 6,
+   "COOKING_NO": 2,
+   "COOKING_DC": "찹쌀은 깨끗이 씻어 불렸다가 가루로 빻는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 6,
+   "COOKING_NO": 3,
+   "COOKING_DC": "팥은 씻어 일어 물을 넣고 한소끔 끓으면 첫물은 버리고 다시 물을 부어 푹 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 6,
+   "COOKING_NO": 4,
+   "COOKING_DC": "호박은 1cm 두께로 썰어 냄비에 담고 물과 설탕을 넣어 푹 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 6,
+   "COOKING_NO": 5,
+   "COOKING_DC": "호박이 푹 무르면 찹쌀가루를 물에 풀어 넣고 팥도 함께 넣어 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 6,
+   "COOKING_NO": 6,
+   "COOKING_DC": "다 끓으면 설탕, 소금으로 간한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 7,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쌀은 충분히 불려서 소쿠리에 건져 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 7,
+   "COOKING_NO": 2,
+   "COOKING_DC": "깨는 깨끗이 일어 건져서 고소한 향이 나도록 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 7,
+   "COOKING_NO": 3,
+   "COOKING_DC": "분쇄기에 쌀과 깨를 따로따로 넣어 물을 조금씩 넣어가며 갈아 고운 체에 밭친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 7,
+   "COOKING_NO": 4,
+   "COOKING_DC": "밑이 두터운 냄비에 곱게 간 쌀과 물을 부어 나무주걱으로 저으며 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 7,
+   "COOKING_NO": 5,
+   "COOKING_DC": "냄비가 뜨거워 지면 갈은 깨를 조금씩 부어 멍울지지 않도록 가끔 저어주며 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 7,
+   "COOKING_NO": 6,
+   "COOKING_DC": "확 끓어오르면 불을 약하게 줄이고 잘 섞이도록 서서히 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 8,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쇠고기와 채소는 도톰하게 깍뚝썰기하여 버터에 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 8,
+   "COOKING_NO": 2,
+   "COOKING_DC": "카레는 찬물 2컵에 물을 조금씩 넣어가며 풀어놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 8,
+   "COOKING_NO": 3,
+   "COOKING_DC": "①의 냄비에 완두를 넣고 물을 자작하게 붓고 끓이다가 ②를 붓고 더 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 8,
+   "COOKING_NO": 4,
+   "COOKING_DC": "국물이 되직하게 졸면 우유를 붓고 소금과 후춧가루로 간을 맞춘다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 8,
+   "COOKING_NO": 5,
+   "COOKING_DC": "따뜻한 밥위에 완성된 카레를 넉넉히 얹어낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 9,
+   "COOKING_NO": 1,
+   "COOKING_DC": "청피망, 홍피망, 양파, 오이, 당근은 잘게 다져 준비한다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/001800_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 9,
+   "COOKING_NO": 2,
+   "COOKING_DC": "프라이팬에 버터를 두르고 당근, 양파를 볶다가 양파가 투명해지면 남은 야채 재료를 넣고 볶는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/001800_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 9,
+   "COOKING_NO": 3,
+   "COOKING_DC": "찬밥을 넣어 야채와 잘 섞은 후 소금, 후춧가루로 간을 약하게 맞춘다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 9,
+   "COOKING_NO": 4,
+   "COOKING_DC": "계란을 멍울 없이 풀어 소금, 후춧가루로 간하고, 반쯤 익으면 계란 중앙에 밥을 놓고 잘 감싸서 접시에 담는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 9,
+   "COOKING_NO": 5,
+   "COOKING_DC": "다시마와 멸치로 다시국물을 만들어 체에 거른 후 프라이팬에 육수 2컵을 넣고 쌈장을 잘 풀어 끓여준다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 9,
+   "COOKING_NO": 6,
+   "COOKING_DC": "팔팔 끓어오르면 전분가루를 넣어 농도를 되직하게 만든 후 오므라이스 위에 뿌려준다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 10,
+   "COOKING_NO": 1,
+   "COOKING_DC": "밀가루에 소금과 따뜻한 물을 넣어 말랑하게 반죽하여 젖은 면보에 싸 냉장고에 30분간 넣어둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": "양념장: 간장 5큰술, 고춧가루 1큰술, 참기름 1큰술, 다진고추 1큰술, 설탕 1작은술, 후춧가루 1작은술"
+ },
+ {
+   "RECIPE_ID": 10,
+   "COOKING_NO": 2,
+   "COOKING_DC": "감자와 애호박은 도톰하게 반달썰기한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 10,
+   "COOKING_NO": 3,
+   "COOKING_DC": "실파는 4cm 길이로 자르고 홍고추는 어슷썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 10,
+   "COOKING_NO": 4,
+   "COOKING_DC": "멸치는 장국을 끓여 국간장으로 간을 맞춘다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 10,
+   "COOKING_NO": 5,
+   "COOKING_DC": "국물이 끓어오르면 감자를 넣고, 반쯤 익으면 수제비 반죽을 얇게 뜯어 넣는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 10,
+   "COOKING_NO": 6,
+   "COOKING_DC": "호박을 넣어 파랗게 익으면 홍고추와 실파, 참기름을 넣고 불을 끈다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 11,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쇠고기는 삶아 건져 편육으로 썰고 국물은 식혀 기름을 걷어 육수로 준비한다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/002100_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 11,
+   "COOKING_NO": 2,
+   "COOKING_DC": "동치미무는 길쭉하고 얇게 썰고 오이는 어슷썰어 소금에 20분 동안 절였다가 물기를 꼭 짜서 살짝 볶는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/002100_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 11,
+   "COOKING_NO": 3,
+   "COOKING_DC": "배는 납작하게 썰고 계란은 삶아 반 가른다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 11,
+   "COOKING_NO": 4,
+   "COOKING_DC": "육수와 동치미국물을 섞어 소금과 설탕, 식초로 간을 맞춰 차게 둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 11,
+   "COOKING_NO": 5,
+   "COOKING_DC": "냉면국수는 삶아 찬물에 비벼 빨듯이 헹군다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 11,
+   "COOKING_NO": 6,
+   "COOKING_DC": "대접에 면을 담고 편육과 무, 오이, 배, 계란을 얹은 후 육수를 부어 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 12,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쇠고기는 채썰어 분량의 재료로 갖은양념하여 약간 재웠다가 팬에 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 12,
+   "COOKING_NO": 2,
+   "COOKING_DC": "오이는 가늘게 채썰어 소금에 절였다가 물기를 꼭 짜고 살짝 볶아 식힌다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 12,
+   "COOKING_NO": 3,
+   "COOKING_DC": "동치미무는 반달모양으로 얄팍하게 썰어 깨소금과 참기름으로 무친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 12,
+   "COOKING_NO": 4,
+   "COOKING_DC": "국수는 넉넉한 끓는 물에 삶아 찬물에 헹구어 건져 1인분씩 사리지어 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 12,
+   "COOKING_NO": 5,
+   "COOKING_DC": "그릇에 국수를 담고 고기채, 오이채, 동치미무, 계란지단채, 붉은 고추채를 얹어 동치미 국물을 가만히 붓는다",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 13,
+   "COOKING_NO": 1,
+   "COOKING_DC": "열무는 다듬어 소금에 절여둔다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/002800_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 13,
+   "COOKING_NO": 2,
+   "COOKING_DC": "냄비에 물 1컵과 찹쌀가루 2큰술을 넣고 나무주걱으로 저어가며 약불에서 찹쌀풀을 쑨다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/002800_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 13,
+   "COOKING_NO": 3,
+   "COOKING_DC": "볼에 물 4컵과 고춧가루 4큰술을 풀고 찹쌀풀을 넣어 간을 맞춘다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 13,
+   "COOKING_NO": 4,
+   "COOKING_DC": "③에 절인 열무와 어슷썬 고추, 채썬 파, 마늘, 생강을 넣고 버무려 열무김치를 담아 익힌다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 13,
+   "COOKING_NO": 5,
+   "COOKING_DC": "알맞게 익은 열무김치에 식초, 설탕, 소금으로 간을 맞추어 차게 둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 13,
+   "COOKING_NO": 6,
+   "COOKING_DC": "냉면을 삶아 그릇에 담고 열무김치를 부은 다음 겨자 갠 것을 곁들인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 14,
+   "COOKING_NO": 1,
+   "COOKING_DC": "오이는 두께 0.3cm x 폭 0.3cm, 길이 5cm로 채썰어 소금에 절였다가 물기를 짠다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": "**쇠고기, 표고버섯 양념장: 간장 2작은술, 설탕 1/2작은술, 다진 파 1/2작은술, 다진 마늘 1/2작은술, 후춧가루 약간, 깨소금 약간, 참기름 약간  **양념간장 : 고춧가루 1큰술, 간장 1큰술, 다진 마늘 1작은술, 다진 파 1작은술, 깨소금 약간, 참기름 약간      * 양념간장"
+ },
+ {
+   "RECIPE_ID": 14,
+   "COOKING_NO": 2,
+   "COOKING_DC": "쇠고기는 두께와 폭이 0.3cm, 길이 5cm로 썰어 양념한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 14,
+   "COOKING_NO": 3,
+   "COOKING_DC": "표고도 물에 불려 쇠고기와 같은 크기로 채썰어 양념한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 14,
+   "COOKING_NO": 4,
+   "COOKING_DC": "부추는 잘 씻어 5cm 길이로 잘라둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 14,
+   "COOKING_NO": 5,
+   "COOKING_DC": "계란은 노른자와 흰자를 분리하여 지단을 붙이고 채썰어 둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 14,
+   "COOKING_NO": 6,
+   "COOKING_DC": "번철에 오이, 표고, 쇠고기순으로 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 15,
+   "COOKING_NO": 1,
+   "COOKING_DC": "고기는 저며서 녹말가루, 계란흰자, 청주, 소금으로 양념한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 15,
+   "COOKING_NO": 2,
+   "COOKING_DC": "해물은 한 입 크기로 손질해 데친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 15,
+   "COOKING_NO": 3,
+   "COOKING_DC": "채소는 얄팍하게 저며썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 15,
+   "COOKING_NO": 4,
+   "COOKING_DC": "팬에 기름을 둘러 다진 마늘을 볶다가 고기를 넣어 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 15,
+   "COOKING_NO": 5,
+   "COOKING_DC": "어느정도 익으면 멸치국물을 부어 끓이다가 해물과 채소를 넣고 간을 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 15,
+   "COOKING_NO": 6,
+   "COOKING_DC": "삶은 국수에 ⑤의 해물장국을 부어낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 16,
+   "COOKING_NO": 1,
+   "COOKING_DC": "김치는 소를 털고 송송 썰어 물기를 꼭 짜고 숙주는 삶아 물기를 뺀다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": "*만둣속에 당면이나, 여러가지 채소를 다져 넣어도 색다른 맛을 느낄 수가 있다.      *만둣국의 고명으로 지단을 얇게 부쳐 골패모양으로 썰어 올리면 멋스럽다.      *밀가루 반죽을 한다음에는 바로 빚지 말고 비닐에 조금 숙성시킨 후 만두를 빚는다."
+ },
+ {
+   "RECIPE_ID": 16,
+   "COOKING_NO": 2,
+   "COOKING_DC": "갈은 돼지고기나 갈은 쇠고기를 준비한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 16,
+   "COOKING_NO": 3,
+   "COOKING_DC": "두부는 수분을 완전히 제거한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 16,
+   "COOKING_NO": 4,
+   "COOKING_DC": "양파, 마늘, 대파는 곱게 다져놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 16,
+   "COOKING_NO": 5,
+   "COOKING_DC": "김치, 숙주, 갈은 고기, 다진 양파, 마늘, 대파에 참기름과 후춧가루, 소금으로 간을 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 16,
+   "COOKING_NO": 6,
+   "COOKING_DC": "밀가루 반죽을 하여 얇게 민다음 지름이 6cm 정도 되게 하여 그 안에 ⑤에서 만든 만둣속을 넣는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 17,
+   "COOKING_NO": 1,
+   "COOKING_DC": "다시마는 두텁고 광택이 있는 것으로 물에 씻어 젖은 행주로 여러 번 닦은 뒤 찬물 5컵에 담가 30분 정도 불렸다가 건져놓는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/003900_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 17,
+   "COOKING_NO": 2,
+   "COOKING_DC": "오이는 소금으로 비벼 씻어 헹궈 가늘게 채썬 뒤 찬물에 잠시 담갔다가 건져놓는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/003900_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 17,
+   "COOKING_NO": 3,
+   "COOKING_DC": "홍고추는 반으로 갈라 씨를 털어 곱게 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 17,
+   "COOKING_NO": 4,
+   "COOKING_DC": "손질한 다시마를 돌돌 말아 가늘게 채썰어 달라붙지 않게 털어둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 17,
+   "COOKING_NO": 5,
+   "COOKING_DC": "넓은 그릇에 다시마, 채썬 오이, 홍고추를 담고 다진 파와 마늘, 고춧가루, 깨소금, 소금으로 양념하여 차게 해둔 ①을 붓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 18,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쇠고기는 얄팍하게 썰어 다진 마늘과 후춧가루, 진간장으로 조물조물 양념한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 18,
+   "COOKING_NO": 2,
+   "COOKING_DC": "양념한 고기를 냄비에 넣고 육수를 부어 끓이다가 고추장을 연하게 풀고 국간장이나 소금으로 간을 맞춘다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 18,
+   "COOKING_NO": 3,
+   "COOKING_DC": "두부를 1cm 폭으로 길쭉하게 썰어 끓고 있는 국물에 쏟아 넣고 두부가 떠오를 때까지 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 18,
+   "COOKING_NO": 4,
+   "COOKING_DC": "두부가 떠 오르면 채썬 파, 다진 마늘을 넣고 조금 더 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 19,
+   "COOKING_NO": 1,
+   "COOKING_DC": "모시조개는 소금물로 해감시킨 후 물을 붓고 끓이다가 모시는 건져내고 국물은 걸러 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 19,
+   "COOKING_NO": 2,
+   "COOKING_DC": "콩나물은 다듬어 씻고 두부는 큼직하게 썰며, 붉은 고추는 어슷썰어 씨를 털고 실파는 4cm 길이로 썰어 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 19,
+   "COOKING_NO": 3,
+   "COOKING_DC": "북어포는 물에 씻어 물기를 짠 뒤 소금과 후춧가루로 양념한 뒤 밀가루를 묻혀 계란을 푼 물에 섞는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 19,
+   "COOKING_NO": 4,
+   "COOKING_DC": "조개 삶아낸 국물에 다진 마늘을 넣고 끓이다가 손질한 콩나물을 넣는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 19,
+   "COOKING_NO": 5,
+   "COOKING_DC": "한소끔 끓으면 모시조개 두부, 붉은 고추, 실파를 넣고 계란물에 섞어 놓은 북어를 넣어 조금 더 끓이다가 소금, 후춧가루로 간을 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 20,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쇠고기는 2cm 길이로 도톰하게 저며썰고 무는 길이 3cm 정도씩 토막을 낸 뒤 반을 갈라 0.2cm 두께로 나박썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 20,
+   "COOKING_NO": 2,
+   "COOKING_DC": "썰어놓은 쇠고기는 다진 마늘 1작은술과 국간장 1큰술, 후춧가루 약간으로 양념해 간이 골고루 배도록 조물조물 무친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 20,
+   "COOKING_NO": 3,
+   "COOKING_DC": "냄비에 물 5컵을 붓고 팔팔 끓이다가 양념해 놓은 쇠고기를 넣고 고기가 익을 때까지 한소끔 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 20,
+   "COOKING_NO": 4,
+   "COOKING_DC": "끓는 쇠고기 장국에 나박썬 무를 넣는다. 끓을 때 생기는 거품은 걷어낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 20,
+   "COOKING_NO": 5,
+   "COOKING_DC": "무가 말갛게 익으면 국간장과 소금을 1:1의 비율로 넣어 간을 하고 다진 마늘과 실파를 넣어 조금 더 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 21,
+   "COOKING_NO": 1,
+   "COOKING_DC": "찬물에 씻어 담가 충분히 불려 물기를 뺀 뒤 손으로 적당하게 잘라 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 21,
+   "COOKING_NO": 2,
+   "COOKING_DC": "쇠고기는 연한 살코기만을 골라 곱게 다져 다진 마늘, 국간장, 참기름을 넣고 간이 배도록 고루 섞는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 21,
+   "COOKING_NO": 3,
+   "COOKING_DC": "냄비에 식용유를 두르고 양념한 쇠고기를 넣어 볶다가 고기가 익으면 손질한 미역을 넣고 같이 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 21,
+   "COOKING_NO": 4,
+   "COOKING_DC": "미역이 푸른색을 띠게 볶아지면 분량의 물을 붓고 한소끔 끓인 뒤 다진 마늘을 넣고 국간장, 후춧가루로 간을 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 22,
+   "COOKING_NO": 1,
+   "COOKING_DC": "미역은 줄기를 떼어 티를 골라낸 다음 찬물에 담가30분 정도 불린다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/004800_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 22,
+   "COOKING_NO": 2,
+   "COOKING_DC": "불린 미역을 깨끗이 씻어 손으로 잘게 찢은 다음 끓는 물에 재빨리 데쳐 물기를 빼놓는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/004800_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 22,
+   "COOKING_NO": 3,
+   "COOKING_DC": "오이는 소금에 비벼 씻어 가늘게 채썰어 찬물에 잠깐 담가 건진다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 22,
+   "COOKING_NO": 4,
+   "COOKING_DC": "대파 흰부분만 다듬어 씻은 다음 반으로 갈라 가늘게 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 22,
+   "COOKING_NO": 5,
+   "COOKING_DC": "큰 그릇에 데친 미역을 담고 분량의 양념 재료를 넣어 무쳐준다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 22,
+   "COOKING_NO": 6,
+   "COOKING_DC": "양념한 미역에 맛이 배어들면 차갑게 준비한 미역 우린물을 붓고 채썬 오이와 대파를 넣고 차게 먹는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 23,
+   "COOKING_NO": 1,
+   "COOKING_DC": "생태는 씻어 내장을 빼고 비늘을 긁은 뒤 다시 씻어 5cm 길이로 토막내어 소금을 살짝 뿌려둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 23,
+   "COOKING_NO": 2,
+   "COOKING_DC": "콩나물은 뿌리를 떼고 무는 0.5cm 두께로 얄팍하게 나박썬다. 붉은 고추는 어슷썰어 씨를 털고 미나리는 줄기만 4cm 길이로 썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 23,
+   "COOKING_NO": 3,
+   "COOKING_DC": "마지막에 씻은 쌀뜨물을 받아 냄비에 붓고 센불에서 끓이다가 손질한 생태를 넣는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 23,
+   "COOKING_NO": 4,
+   "COOKING_DC": "국물이 끓어 생태가 익으면 무와 콩나물을 넣고 뚜껑을 덮은채 한소끔 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 23,
+   "COOKING_NO": 5,
+   "COOKING_DC": "거의 끓었을 때 붉은 고추와 다진 마늘, 미나리를 넣고 소금과 후춧가루로 간 한 뒤 더 끓이다가 미나리가 살짝 숨이 죽으면 불에서 내린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 24,
+   "COOKING_NO": 1,
+   "COOKING_DC": "[연어준비] 신선한 연어는 깨끗하게 포를 3장 떠놓고 포 위에 레몬즙을 발라 놓는다.(미리 발라두면 색이 변하므로 페스토 소스바르기 직전에 한다)",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": "[페스토 소스 재료] 바질 20g, 이태리 파슬리 6줄기, 잣 1/4컵, 엔초비 1마리, 마늘 2쪽, 파르메쟌 10g, 올리브오일 100g"
+ },
+ {
+   "RECIPE_ID": 24,
+   "COOKING_NO": 2,
+   "COOKING_DC": "양파는 잘게 다져 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 24,
+   "COOKING_NO": 3,
+   "COOKING_DC": "양송이는 3mm 두께로 슬라이스 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 24,
+   "COOKING_NO": 4,
+   "COOKING_DC": "차이브는 물에 담궈 살려놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 24,
+   "COOKING_NO": 5,
+   "COOKING_DC": "[페스토소스 만들기] 바질, 이태리파슬리, 잣, 엔초비, 마늘을 믹서에 넣고 올리브오일를 넣어 가며 살짝만 갈아 꺼내고, 올리브오일와 파르메쟌을 넣어 농도와 맛을 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 24,
+   "COOKING_NO": 6,
+   "COOKING_DC": "[양송이 샐러드 만들기] 양송이는 5mm두께로 썰어 다진 양파, 레몬주스, 올리브오일, 소금, 후춧가루로 맛을 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 25,
+   "COOKING_NO": 1,
+   "COOKING_DC": "오이는 굵은 소금으로 박박 문질러 씻은 뒤 채썰거나 얇게 통썰기 한다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/005200_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 25,
+   "COOKING_NO": 2,
+   "COOKING_DC": "손질한 오이에 다진 파와 마늘, 고춧가루, 식초를 넣어 골고루 무쳐놓는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/005200_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 25,
+   "COOKING_NO": 3,
+   "COOKING_DC": "물 4컵을 끓였다 식힌 뒤 설탕 1큰술과 간장, 식초 2큰술씩, 소금 약간을 넣고 나머지 6컵의 생수를 넣어 냉국물을 만든다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 25,
+   "COOKING_NO": 4,
+   "COOKING_DC": "상에 낼 때에는 양념해 놓은 오이에 차갑게 식힌 냉국물을 붓고 깨소금을 살짝 뿌린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 26,
+   "COOKING_NO": 1,
+   "COOKING_DC": "[채소 준비] 양파, 샐러리, 당근을 채썰고 트레비소와 루콜라는 먹기좋은 크기고 자른다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": "소스재료: 레몬즙 1개, 다진 양파 40g, 백포도주식초 60g, 바질 잎6개, 다진 이태리 파슬리 5g, 소금 약간, 후추가루 약간, 올리브오일 적당량  "
+ },
+ {
+   "RECIPE_ID": 26,
+   "COOKING_NO": 2,
+   "COOKING_DC": "바질과 이태리파슬리를 다져놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 26,
+   "COOKING_NO": 3,
+   "COOKING_DC": "[해산물 준비] 모든 해산물은 깨끗이 씻어 준비한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 26,
+   "COOKING_NO": 4,
+   "COOKING_DC": "냄비에 물을 붓고 적당량의 소금을 넣고 끓인다. 물이 끓으면 해산물을 넣고 살짝 데쳐 꺼내놓는다. 채썰어 놓은 채소도 함께 살짝 데쳐 내어 체에 밭쳐둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 26,
+   "COOKING_NO": 5,
+   "COOKING_DC": "익은 해산물은 알맞은 크기로 잘라놓고, 채소와 함께 버무려 냉장고에 차갑게 식힌다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 26,
+   "COOKING_NO": 6,
+   "COOKING_DC": "[소스 만들기] 믹싱볼에 올리브오일, 레몬즙, 백포도주식초, 다진 바질, 다진 파슬리, 소금, 후춧가루를 넣고 잘 혼합하여 소스를 완성한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 27,
+   "COOKING_NO": 1,
+   "COOKING_DC": "재첩은 맹물에 한나절 담가 해감시킨 뒤 깨끗이 문질러 씻어 소쿠리에 건져 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 27,
+   "COOKING_NO": 2,
+   "COOKING_DC": "냄비에 물 4컵을 붓고 재첩을 넣어 입이 벌어지도록 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 27,
+   "COOKING_NO": 3,
+   "COOKING_DC": "국물이 끓으면 4cm 길이로 부추를 썰어 넣고 소금으로 간을 하여 잠깐 더 끓인 후 내린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 28,
+   "COOKING_NO": 1,
+   "COOKING_DC": "신선한 도미는 비늘을 제거하고 3장뜨기 하여 준비한다. 감자는 야주 얇게 둥글게 썰어서 준비한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 28,
+   "COOKING_NO": 2,
+   "COOKING_DC": "방울토마토는 반을 잘라둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 28,
+   "COOKING_NO": 3,
+   "COOKING_DC": "오븐용 종이를 바닥에 깔고 가운데에 올리브오일을 브러쉬를 이용해 잘 바른 후 슬라이스한 감자를 겹겹이 붙여 원형으로 돌려 깔고 위에 소금을 뿌린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 28,
+   "COOKING_NO": 4,
+   "COOKING_DC": "도미를 올리고 다진 향초를 뿌리고 방울토마토를 생선의 가장자리 부분에 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 28,
+   "COOKING_NO": 5,
+   "COOKING_DC": "녹색과 검은색 올리브, 바질을 올리고 생선살 위에 와인을 조금 뿌린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 28,
+   "COOKING_NO": 6,
+   "COOKING_DC": "종이 가장자리에 노른자를 바르고 조금씩 접어 덮고 종이 양쪽은 사탕모양으로 뭉쳐 호일로 끈을 만들어 묶는다. (종이위에 \"ㅍ\" 모양으로 노른자를 바른다. ㅍ모양의 한가운데 내용물이 들어가는것)",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 29,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쇠고기는 적간으로 도톰하게 떠서 두드리듯 앞 뒤로 잔 칼집을 넣는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 29,
+   "COOKING_NO": 2,
+   "COOKING_DC": "분량의 갖은 재료를 섞어 고기를 넣고 무쳐 30분 정도 재워 둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 29,
+   "COOKING_NO": 3,
+   "COOKING_DC": "느타리버섯은 끓는물에 데쳐 식혀서 물기를 꼭 짠다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 29,
+   "COOKING_NO": 4,
+   "COOKING_DC": "실파는 6cm 길이로 자르고 느타라버섯은 잘게 찢어 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 29,
+   "COOKING_NO": 5,
+   "COOKING_DC": "햇살담은간장, 파, 마늘, 참기름, 후춧가루로 버섯을 간이 배도록 무친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 29,
+   "COOKING_NO": 6,
+   "COOKING_DC": "꼬치에 쇠고기, 실파, 느타리버섯을 순서대로 꿰고 마지막엔 쇠고기를 한번 더 꿰어준다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 30,
+   "COOKING_NO": 1,
+   "COOKING_DC": "쇠고기는 잔칼집을 넣어 한 입 크기로 도톰하게 썰어둔다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/005900_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 30,
+   "COOKING_NO": 2,
+   "COOKING_DC": "피망은 한 입 크기로 네모 썰고 양송이는 모양대로 도톰하게 썬다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/005900_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 30,
+   "COOKING_NO": 3,
+   "COOKING_DC": "양파는 피망과 같은 크기로 네모 썰고 마늘은 얇게 편썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 30,
+   "COOKING_NO": 4,
+   "COOKING_DC": "기름 두른 프라이팬에 쇠고기, 양파, 마늘을 볶다가 분량의 양념 재료를 넣고 끓으면 피망, 양송이를 넣고 숨이 죽으면 불에서 내린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 30,
+   "COOKING_NO": 5,
+   "COOKING_DC": "소금과 후춧가루를 제외한 분량의 양념재료를 넣어 약불에 졸여 농도가 걸죽해지면 소금과 후춧가루로 간을 해 마무리한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 31,
+   "COOKING_NO": 1,
+   "COOKING_DC": "붉은 색을 띠는 팥을 준비하여 깨끗이 씻어 돌이 없게 일어 놓았다가 냄비에 담고 물을 넉넉히 부어 삶는다. 한참을 삶아 팥이 푹 물러지면 믹서에 곱게 갈아 체에 걸러 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 31,
+   "COOKING_NO": 2,
+   "COOKING_DC": "분량의 밀가루와 날콩가루에 소금을 조금 넣고 물 1컵을 조금씩 부어가며 반죽하여 잘 치댄다. 골고루 반죽이 되면 비닐 봉지에 넣고 30분 정도 그대로 두어 끈기가 생기게 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 31,
+   "COOKING_NO": 3,
+   "COOKING_DC": "밀가루 반죽에 끈기가 생기면 좀 더 치댄 뒤 편평한 상에 밀가루를 바르고 방망이로 얇게 밀어 0.3cm 두께로 썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 31,
+   "COOKING_NO": 4,
+   "COOKING_DC": "체에 걸러 놓은 팥국물을 냄비에 담아 다시 끓인다. 팥물이 끓으면 국수를 넣고 서로 붙지 않게 나무젓가락으로 저어 가며 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 31,
+   "COOKING_NO": 5,
+   "COOKING_DC": "팥국물이 끓어 국수가 떠오르면 소금으로 간을 하고 불에서 내려 그릇에 담아 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 32,
+   "COOKING_NO": 1,
+   "COOKING_DC": "죽순은 빗살모양을 살려 얇게 저며 썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 32,
+   "COOKING_NO": 2,
+   "COOKING_DC": "불린 표고는 기둥을 뗀 후 2, 3등분하여 썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 32,
+   "COOKING_NO": 3,
+   "COOKING_DC": "양념장은 간장 1큰술에 다진 파, 마늘, 설탕, 소금, 후춧가루, 참기름을 섞어 만들어 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 32,
+   "COOKING_NO": 4,
+   "COOKING_DC": "준비한 죽순과 표고를 그릇에 담고 양념장을 넣어 간이 배도록 무친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 32,
+   "COOKING_NO": 5,
+   "COOKING_DC": "달군 팬에 기름을 두르고 센불에 ④를 넣고 볶다가 마지막으로 파를 넣고 살짝 볶아낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 33,
+   "COOKING_NO": 1,
+   "COOKING_DC": "돼지고기는 살만 골라 4cm 길이로 얇게 채썬다. 볼에 넣고 청주와 간장으로 밑간해 둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 33,
+   "COOKING_NO": 2,
+   "COOKING_DC": "부추는 씻어 물기를 빼 4cm 길이로 썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 33,
+   "COOKING_NO": 3,
+   "COOKING_DC": "표고는 잘 불려서 짜 얇게 채썬다. 굵은 파는 어슷썰고 생강은 다진다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 33,
+   "COOKING_NO": 4,
+   "COOKING_DC": "달군 팬에 기름을 두르고 생강과 파를 볶다가 저민 돼지고기를 넣어 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 33,
+   "COOKING_NO": 5,
+   "COOKING_DC": "고기가 익으면 남은 재료를 모두 넣어 볶다가 반쯤 익었을 때 간장으로 다시 한번 볶는다. 채소는 너무 숨이 죽지 않도록 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 34,
+   "COOKING_NO": 1,
+   "COOKING_DC": "야채는 깨끗이 씻어 손질한 후 찬물에 담가둔다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/006500_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 34,
+   "COOKING_NO": 2,
+   "COOKING_DC": "두부는 흐르는 물에 한번 헹군 후 물기를 살짝 제거하고 분량의 양념 재료를 넣어 믹서에 곱게 갈아 두부드레싱을 준비한다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/006500_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 34,
+   "COOKING_NO": 3,
+   "COOKING_DC": "당근은 가로로 얇게 썰고, 파프리카는 굵게 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 34,
+   "COOKING_NO": 4,
+   "COOKING_DC": "③을 제외한 야채는 물기를 제거하고 적당하게 찢는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 34,
+   "COOKING_NO": 5,
+   "COOKING_DC": "넓은 접시에 야채를 올리고 두부드레싱을 뿌린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 35,
+   "COOKING_NO": 1,
+   "COOKING_DC": "콩나물은 줄기가 희고 통통한 것으로 준비하여 뿌리를 다듬어 씻어 물기를 빼놓는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/006600_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 35,
+   "COOKING_NO": 2,
+   "COOKING_DC": "냄비에 콩나물을 담고 물을 넣어 뚜껑을 덮고 데친 다음 콩나물을 건져 물기를 뺀다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/006600_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 35,
+   "COOKING_NO": 3,
+   "COOKING_DC": "②의 콩나물을 참기름으로 먼저 버무린 후 다진 파, 다진 마늘, 실고추, 깨소금, 후춧가루, 소금을 넣어 무친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 36,
+   "COOKING_NO": 1,
+   "COOKING_DC": "우엉은 칼등으로 가볍게 긁어 껍질을 벗겨 물에 행군다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 36,
+   "COOKING_NO": 2,
+   "COOKING_DC": "긴 것은 4cm 길이로 토막내 굵게 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 36,
+   "COOKING_NO": 3,
+   "COOKING_DC": "끓는 물에 소금을 넣고 살짝 데쳐 검은 물을 빠지게 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 36,
+   "COOKING_NO": 4,
+   "COOKING_DC": "데친 우엉을 냄비에 담고 간장과 물을 붓고 조린다. 조리시 센불에서 서서히 줄여 조린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 36,
+   "COOKING_NO": 5,
+   "COOKING_DC": "반쯤 조려졌을 때 물엿을 넣고 자작할 때까지 조려낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 36,
+   "COOKING_NO": 6,
+   "COOKING_DC": "그릇에 가지런히 담은 뒤 통깨를 솔솔 뿌린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 37,
+   "COOKING_NO": 1,
+   "COOKING_DC": "바질은 찬물에 헹궈 물기를 제거해준다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/007100_p01.jpg",
+   "STEP_TIP": "원형틀: 스텐레스 원형틀이 없을경우는 1리터짜리 피트병의 중간부분을 잘라내어 옆부분 세로높이로 잘라주면 말리는 성질때문에 다양한 지름으로 틀을 찍을수 있다. .  "
+ },
+ {
+   "RECIPE_ID": 37,
+   "COOKING_NO": 2,
+   "COOKING_DC": "①의 분량의 드레싱재료와 함께 섞어 믹서에 간다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/007100_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 37,
+   "COOKING_NO": 3,
+   "COOKING_DC": "두부를 지금 6cm 원형 틀로 찍어 낸 다음 1cm 두께로 자른다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 37,
+   "COOKING_NO": 4,
+   "COOKING_DC": "토마토는 윗부분과 아랫부분을 잘라내고 두부와 같이 1cm두께로 자른다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 37,
+   "COOKING_NO": 5,
+   "COOKING_DC": "접시 위에 토마토를 놓고, 그 위에 두부, 다시 토마토 순으로 반복하여 쌓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 37,
+   "COOKING_NO": 6,
+   "COOKING_DC": "②의 드레싱과 다진 양파를 섞어 접시 바닥에 뿌리고 두부와 토마토를 찍어 먹는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 38,
+   "COOKING_NO": 1,
+   "COOKING_DC": "잔 멸치는 체에 담아 살살 흔들어 잔부스러기 없이 손질한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 38,
+   "COOKING_NO": 2,
+   "COOKING_DC": "당근은 껍질을 벗겨 4cm 길이로 가늘게 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 38,
+   "COOKING_NO": 3,
+   "COOKING_DC": "청고추는 반으로 갈라 안을 긁어내고 4cm 길이로 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 38,
+   "COOKING_NO": 4,
+   "COOKING_DC": "팬을 뜨겁게 달군 후 잔멸치, 당근, 청고추 순으로 넣어 센불에 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 38,
+   "COOKING_NO": 5,
+   "COOKING_DC": "간장, 설탕, 청주를 섞어 만든 조림장을 넣어 간을 맞춘다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 38,
+   "COOKING_NO": 6,
+   "COOKING_DC": "간이 배면 통깨를 솔솔 뿌려 그릇에 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 39,
+   "COOKING_NO": 1,
+   "COOKING_DC": "갈치는 토막내 비늘을 벗기고 칼집을 넣어 준비하며, 대파와 홍고추는 어슷썰고, 마늘은 편썰어 준비한다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/007600_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 39,
+   "COOKING_NO": 2,
+   "COOKING_DC": "무는 큼직하게 나박썰어 냄비 바닥에 깔아 준비한다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/007600_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 39,
+   "COOKING_NO": 3,
+   "COOKING_DC": "그릇에 분량의 양념 재료를 넣고 준비한 파와 마늘을 고루 섞는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 39,
+   "COOKING_NO": 4,
+   "COOKING_DC": "냄비에 깔아 둔 무 위에 갈치를 얹고, 그 위에 ③의 양념장을 얹어 물을 자작하게  부어 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 39,
+   "COOKING_NO": 5,
+   "COOKING_DC": "15분간 끓이다가 국물이 졸아들면 뚜껑을 열고 파와 고추를 넣은 후 참기름을 넣어 불에서 내린다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 40,
+   "COOKING_NO": 1,
+   "COOKING_DC": "닭은 깨끗이 씻어 먹기 좋은 크기로 8토막 내 뼈를 발라낸 다음 골고루 칼집을 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 40,
+   "COOKING_NO": 2,
+   "COOKING_DC": "넓은 그릇에 다진 파, 마늘, 간장, 고춧가루, 생강즙 등 분량의 양념장 재료를 모두 넣어 섞는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 40,
+   "COOKING_NO": 3,
+   "COOKING_DC": "닭고기에 양념장을 고루 버무려 30분 정도 재워둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 40,
+   "COOKING_NO": 4,
+   "COOKING_DC": "팬에 기름을 두르고 중불에서 너무 바삭해지지 않도록 적당히 익혀낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 41,
+   "COOKING_NO": 1,
+   "COOKING_DC": "다시마는 물에 담가 불려서 정사각형으로 잘라 마른 행주로 닦아둔다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/008300_p01.jpg",
+   "STEP_TIP": "초고추장 재료 :  고추장 3큰술, 식초 2큰술, 물 1큰술, 설탕 1큰술,   생강즙 1/2작은술  양념간장 재료 :  간장 4큰술, 설탕/물엿/다진 마늘 1큰술씩,   조미술 1/2큰술, 다진 파 2큰술, 생강즙 2작은술,   참기름/깨소금/후춧가루 약간씩  "
+ },
+ {
+   "RECIPE_ID": 41,
+   "COOKING_NO": 2,
+   "COOKING_DC": "표고버섯은 더운물에 불려 곱게 다진다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/008300_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 41,
+   "COOKING_NO": 3,
+   "COOKING_DC": "두부는 곱게 으깨어 물기를 꼭 짜둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 41,
+   "COOKING_NO": 4,
+   "COOKING_DC": "당근과 풋고추도 곱게 다진다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 41,
+   "COOKING_NO": 5,
+   "COOKING_DC": "2,3,4를 혼합하고 들깨가루, 깨소금, 소금, 참기름, 후추를 넣어 양념을 하여 볶아 식힌다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 41,
+   "COOKING_NO": 6,
+   "COOKING_DC": "1의 다시마에 4의 양념된 두부를 손가락 크기로 만들어 놓고 다시마를 세로로 놓아 김밥처럼 말아서 적당히 자른다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 42,
+   "COOKING_NO": 1,
+   "COOKING_DC": "팥은 찬물에 씻은 후 물에 담가 충분히 불린다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/008600_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 42,
+   "COOKING_NO": 2,
+   "COOKING_DC": "칼국수면은 손으로 훌훌 털어 뭉침을 풀어준다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/008600_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 42,
+   "COOKING_NO": 3,
+   "COOKING_DC": "냄비에 불린 팥을 담고 팥의 1.5배의 물과 소금을 약간 넣고 삶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 42,
+   "COOKING_NO": 4,
+   "COOKING_DC": "끓기 시작하면 첫물은 따라 버리고 다시 찬물을 붓고 팥이 무를 정도로 삶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 42,
+   "COOKING_NO": 5,
+   "COOKING_DC": "④의 팥 삶은 것을 체에 걸러 내려서 팥 껍질을 제거하고 팥앙금과 적정량의 물을 부어 끓인다.(물은 식성에 따라 가감한다)",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 42,
+   "COOKING_NO": 6,
+   "COOKING_DC": "⑤의 팥물에 생면을 넣어 끓이다가 소금으로 간한다. 식성에 따라 설탕을 첨가해도 좋다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 43,
+   "COOKING_NO": 1,
+   "COOKING_DC": "깨끗이 다듬은 콩나물은 냄비에 안치고 소금을 조금 넣은 후 물 1컵을 붓고 삶는다. 7분 정도 지나면 체에 밭쳐 물기를 뺀다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 43,
+   "COOKING_NO": 2,
+   "COOKING_DC": "물에 불린 표고와 쇠고기는 채썰어 갖은 양념(간장, 설탕, 다진 파, 마늘, 후춧가루, 깨소금) 한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 43,
+   "COOKING_NO": 3,
+   "COOKING_DC": "미나리는 다듬어 5cm 길이로 썰어 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 43,
+   "COOKING_NO": 4,
+   "COOKING_DC": "양파와 당근은 채썰어 소금에 절여놓고 계란은 풀어 지단을 부쳐 채썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 43,
+   "COOKING_NO": 5,
+   "COOKING_DC": "당근, 미나리를 각각 볶아내고 양념해둔 표고와 쇠고기도 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 43,
+   "COOKING_NO": 6,
+   "COOKING_DC": "삶은 콩나물에 참기름 1/2큰술과 소금으로 무친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 44,
+   "COOKING_NO": 1,
+   "COOKING_DC": "양배추는 한장씩 뜯어 끓는 소금물에 살짝 데친 다음 찬물에 헹궈 물기를 짠다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 44,
+   "COOKING_NO": 2,
+   "COOKING_DC": "밤은 속껍질까지 벗겨 찬물에 잠시 담갔다가 끓는물에 반쯤 익을 정도로 데친다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 44,
+   "COOKING_NO": 3,
+   "COOKING_DC": "쇠고기와 양파는 다져서 그릇에 담고 양념장을 넣어 간이 배도록 버무린다. (양념장 : 간장, 깨소금, 청주, 다진 파, 마늘, 참기름, 후춧가루, 소금)",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 44,
+   "COOKING_NO": 4,
+   "COOKING_DC": "삶은 양배추를 넓게 펼쳐 고기를 적당히 담고 밤 한 개를 다진 고기속에 넣어 동그랗게 만다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 44,
+   "COOKING_NO": 5,
+   "COOKING_DC": "동그랗게 만 양배추말이를 뭉개지지 않을 정도로 실로 묶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 44,
+   "COOKING_NO": 6,
+   "COOKING_DC": "냄비에 양배추말이를 안치고 육수를 자작할 정도로 부어 10분 정도 찐다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 45,
+   "COOKING_NO": 1,
+   "COOKING_DC": "마늘은 단단하고 고른것으로 구입하여 물에 충분히 불렸다가 속 껍질까지 벗겨 물기를 완전히 닦아낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 45,
+   "COOKING_NO": 2,
+   "COOKING_DC": "마늘을 그릇에 담고 물 10컵에 소금 1컵을 섞은 소금물을 부어 1주일 정도 숙성시킨다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 45,
+   "COOKING_NO": 3,
+   "COOKING_DC": "분량의 장아찌간장을 팔팔 끓여 식힌 후 삭힌 마늘에 붓고 1주일 정도 놓아둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 45,
+   "COOKING_NO": 4,
+   "COOKING_DC": "마늘이 잘 삭았으면 장물만 따라내어 팔팔 끓인 다음 식혀서 다시 마늘에 붓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 46,
+   "COOKING_NO": 1,
+   "COOKING_DC": "오징어는 내장을 빼고 껍질을 벗겨 한장으로 편 뒤 가로 세로 사선으로 칼집을 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 46,
+   "COOKING_NO": 2,
+   "COOKING_DC": "분량의 재료를 모두 섞어 넓은 그릇에 담고 손질한 오징어를 버무려 15분간 재워둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 46,
+   "COOKING_NO": 3,
+   "COOKING_DC": "팬에 기름을 두르고 고추장양념장에 재운 오징어를 놓고 센불에서 뒤집으면서 굽는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 46,
+   "COOKING_NO": 4,
+   "COOKING_DC": "구운 오징어를 둥글게 말아 한 입에 먹을 수 있도록 1cm 정도로 보기좋게 썬다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 46,
+   "COOKING_NO": 5,
+   "COOKING_DC": "상에 낼때는 몸통모양으로 돌려 담아 먹음직스럽게 모양을 낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 47,
+   "COOKING_NO": 1,
+   "COOKING_DC": "대구살은 포를 떠 넓적하게 썬 다음 소금과 생강즙을 조금 뿌려 밑간이 고루 배도록 준비한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 47,
+   "COOKING_NO": 2,
+   "COOKING_DC": "깨끗이 손질한 양파, 피망, 당근은 먹기 좋은 크기로 썰고 불려 둔 목이버섯은 손으로 잘게 뜯는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 47,
+   "COOKING_NO": 3,
+   "COOKING_DC": " 통조림 통에서 파인애플 한 조각을 꺼내어 마른 거즈에 잘 닦아낸 다음 8등분하여 준비한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 47,
+   "COOKING_NO": 4,
+   "COOKING_DC": "준비한 생선에 청주, 계란 흰자, 녹말가루를 넣고 섞어 튀김옷을 골고루 입힌다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 47,
+   "COOKING_NO": 5,
+   "COOKING_DC": "170℃ 정도의 끓는 기름에 튀김옷을 입힌 생선살을 넣고 바삭바삭하게 튀겨낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 47,
+   "COOKING_NO": 6,
+   "COOKING_DC": "냄비에 육수를 붓고 끓으면 식초, 설탕, 저민 마늘, 양파, 당근을 넣어 끓이다가 토마토케첩으로 간한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 48,
+   "COOKING_NO": 1,
+   "COOKING_DC": "갈비는 뼈가 얇고 4.5cm 정도로 토막 낸 것으로 골라 핏물을 우려 낸 후 깨끗이 씻어 물기를 없앤다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 48,
+   "COOKING_NO": 2,
+   "COOKING_DC": "갈비의 기름을 떼고 갈빗대의 중심으로 앞뒤로 뒤집어 가며 양편의 살을 저미면서 얇게 편다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 48,
+   "COOKING_NO": 3,
+   "COOKING_DC": "손질한 갈비는 배즙과 설탕, 청주를 넣어 1시간 정도 재워둔다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 48,
+   "COOKING_NO": 4,
+   "COOKING_DC": "냄비에 간장, 육수, 굵은 파, 양파, 마늘, 월계수잎, 생강을 넣고 재료가 무를 때까지 푹 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 48,
+   "COOKING_NO": 5,
+   "COOKING_DC": "충분히 끓여 둔 양념장은 체에 걸러 따라 놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 48,
+   "COOKING_NO": 6,
+   "COOKING_DC": "걸러 둔 양념장 5큰술에 양파즙, 물엿, 통깨, 후춧가루, 참기름을 넣고 섞는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 49,
+   "COOKING_NO": 1,
+   "COOKING_DC": "돼지고기는 0.5cm 두께로 둥글고 두툼하게 썰어 칼집을 넣는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/010400_p01.jpg",
+   "STEP_TIP": "육수 만들기  냄비에 쇠고기(양지) 200g과 물 5컵을 넣고   끓인 후 체에 한번 거른다."
+ },
+ {
+   "RECIPE_ID": 49,
+   "COOKING_NO": 2,
+   "COOKING_DC": "고기를 접시에 담고 소금과 후춧가루로 밑간하고 밀가루, 계란, 빵가루 순서대로 튀김옷을 입힌다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/010400_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 49,
+   "COOKING_NO": 3,
+   "COOKING_DC": "160℃의 기름에 고기를 넣어 앞뒤가 노릇해지도록 튀겨 기름을 빼놓는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 49,
+   "COOKING_NO": 4,
+   "COOKING_DC": "쇠고기는 잘게 다지고 당근, 샐러리, 마늘은 얇게 저며 썰고 양파는 가늘게 채썰어 볶다가 토마토케첩에 레드와인을 섞어 월계수잎과 육수를 넣고 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 49,
+   "COOKING_NO": 5,
+   "COOKING_DC": "다른 냄비에 버터를 녹인 다음 밀가루를 넣어 나무주걱으로 저으면서 갈색이 나도록 볶는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 49,
+   "COOKING_NO": 6,
+   "COOKING_DC": "④의 소스가 끓으면 ⑤의 브라운루를 거품기로 잘 저어 풀어준 후 넣고 약한 불에서 뭉근히 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 50,
+   "COOKING_NO": 1,
+   "COOKING_DC": "갈비는 토막내어 기름기를 제거하고 찬물에 30분 정도 담가 핏물을 빼서 준비하고, 냄비에 갈비가 잠길 정도로 물을 부어 대파를 흰 뿌리째 넣고 삶는다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/010500_p01.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 50,
+   "COOKING_NO": 2,
+   "COOKING_DC": "삶은 갈비를 식혀 고루 칼집을 넣어두고 삶아낸 물은 육수로 쓴다.",
+   "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/010500_p02.jpg",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 50,
+   "COOKING_NO": 3,
+   "COOKING_DC": "당근과 무는 밤톨 만하게 썰어 가장자리가 둥글게 모양 내고, 밤은 껍질을 깨끗이 벗겨낸다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 50,
+   "COOKING_NO": 4,
+   "COOKING_DC": "은행은 달구어진 프라이팬에 기름을 두르고 살짝 볶아낸 후 거즈로 닦아 껍질을 벗겨내고, 표고버섯은 채썰며 계란은 흰자와 노른자를 분리하여 지단을 부쳐 준비한다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 50,
+   "COOKING_NO": 5,
+   "COOKING_DC": "배는 강판에 갈아서 준비해두고, 배를 비롯한 분량의 양념 재료를 모두 넣고 고루 섞는다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ },
+ {
+   "RECIPE_ID": 50,
+   "COOKING_NO": 6,
+   "COOKING_DC": "냄비에 삶아둔 갈비를 안치고 ⑤의 양념장을 1/2 분량만 끼얹은 후 ②에서 나온 육수 1컵을 부어 끓이다가 갈비가 익고 국물이 졸아들면 남은 양념장을 넣고 준비해둔 밤, 무, 당근, 표고버섯을 넣고 푹 끓인다.",
+   "STRE_STEP_IMAGE_URL": "",
+   "STEP_TIP": ""
+ }
+]
+}
