@@ -50,6 +50,10 @@ const HomePage =({navigation,route}) => {
       }))
     }
   }
+  const IngredientTouch = () => {
+    const selectedIngredients = cateState.filter(ingredient=>ingredient.focus);
+    navigation.navigate('ListPage', {oneplate: selectedIngredients})
+  }
 
   return ready ? <Loading/> : (
     <SafeAreaView style={styles.container}>
@@ -70,15 +74,7 @@ const HomePage =({navigation,route}) => {
             </View>
           </ImageBackground>
 
-          <TouchableOpacity style={styles.image_logo} onPress={() => {
-            {cateState.map(
-              (ingredient,i) => {
-                if (ingredient.focus) {
-                  const oneplate = {...ingredient};
-                  return (
-                    navigation.navigate('ListPage',{oneplate:oneplate})
-                  );}   
-              })}}}>
+          <TouchableOpacity style={styles.image_logo} onPress={IngredientTouch}>
             <Image style={styles.image_logo} source={{uri: plate_empty.image_logo}}/>
           </TouchableOpacity>
         </View>

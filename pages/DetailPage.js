@@ -1,14 +1,22 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet, Text, View, Image, ScrollView,TouchableOpacity,Alert } from 'react-native';
 //import Video from "react-native-video";
+import recipe_main from '../recipe_main.json'
+import recipe_ingredient from '../recipe_ingredient.json'
+import recipe_description from '../recipe_description.json'
+import Loading from '../components/Loading';
 
 export default function DetailPage({navigation,route}) {
 
+    //const [recipeMainState, setRecipeMainState] = useState([])
+    //const [recipeIngredientState, setRecipeIngredientState] = useState([])
+    //const [ready, setReady] = useState(true)
 
-    const plate = {
+
+    const plate = [{
         "category":"생선해산물",
         "title":"새우 아보카도 카레덮밥",
-        "image":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fplate_avocadoshrimp.png?alt=media&token=d496a777-20b0-4bf3-bc65-432d5252223f",
+        "IMG_URL":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fplate_avocadoshrimp.png?alt=media&token=d496a777-20b0-4bf3-bc65-432d5252223f",
         "favorite":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Ffavoriteon.png?alt=media&token=ecc3235f-9e9d-4980-8463-eb9df2f01ec9",
         "bookmark":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fbookmarkon.png?alt=media&token=7502b32c-3641-4ecd-970b-2b431e79c344",
         "best" : "BEST2021",
@@ -33,7 +41,39 @@ export default function DetailPage({navigation,route}) {
         "recipe06" : "7. 그 위에 준비해둔 새우, 아보카도, 두부를 순서대로 얹고계란을  올려준다.",
         "recipe07" : "8. 맨 마지막에 김가루와 통참깨를 뿌려 보기 좋게 준비하면 완성.",
         "favorite_count":"53"
-    }
+    },
+    {
+        "RECIPE_ID": 1,
+        "RECIPE_NM_KO": "나물비빔밥",
+        "SUMRY": "육수로 지은 밥에 야채를 듬뿍 넣은 영양만점 나물비빔밥!",
+        "NATION_CODE": 3020001,
+        "NATION_NM": "한식",
+        "TY_CODE": 3010001,
+        "TY_NM": "밥",
+        "COOKING_TIME": "60분",
+        "CALORIE": "580Kcal",
+        "QNT": "4인분",
+        "LEVEL_NM": "보통",
+        "IRDNT_CODE": "곡류",
+        "PC_NM": "5,000원",
+        "IMG_URL": "http://file.okdab.com/UserFiles/searching/recipe/000200.jpg",
+        "DET_URL": "http://www.okdab.com/consumer/recipe/recipeView.do?recipeSn=1"
+      },
+      {
+        "RECIPE_ID": 1,
+        "IRDNT_SN": 1,
+        "IRDNT_NM": "쌀",
+        "IRDNT_CPCTY": "4컵",
+        "IRDNT_TY_CODE": 3060001,
+        "IRDNT_TY_NM": "주재료"
+      },
+      {
+        "RECIPE_ID": 1,
+        "COOKING_NO": 1,
+        "COOKING_DC": "양지머리로 육수를 낸 후 식혀 기름을 걷어낸 후, 불린 쌀을 넣어 고슬고슬하게 밥을 짓는다.",
+        "STRE_STEP_IMAGE_URL": "http://file.okdab.com/UserFiles/searching/recipe/000200_p01.jpg",
+        "STEP_TIP": ""
+      }]
 
     const popup_favorite = () => {
         Alert.alert("좋아요!")
@@ -62,42 +102,42 @@ export default function DetailPage({navigation,route}) {
         <SafeAreaView style={styles.container}>
             <ScrollView style={styles.container}>
             <View style={styles.imageContainer}>
-            <Image style={styles.image} source={{uri:plate.image}}/>
+            <Image style={styles.image} source={{uri:plate[0].IMG_URL}}/>
             </View>
             <View style={styles.titleContainer}>
             <View style={styles.titleContainer_main}>
-                <Text style={styles.title}>{plate.title}</Text>  
+                <Text style={styles.title}>{plate[1].RECIPE_NM_KO}</Text>  
             </View>  
             <View style={styles.buttonContainer}>
-            <TouchableOpacity style={styles.favorite} onPress={()=>popup_favorite()}><Image style={styles.favorite} source={{uri:plate.favorite}}/></TouchableOpacity>
-            <TouchableOpacity style={styles.bookmark} onPress={()=>popup_bookmark()}><Image style={styles.bookmark} source={{uri:plate.bookmark}}/></TouchableOpacity>
+            <TouchableOpacity style={styles.favorite} onPress={()=>popup_favorite()}><Image style={styles.favorite} source={{uri:plate[0].favorite}}/></TouchableOpacity>
+            <TouchableOpacity style={styles.bookmark} onPress={()=>popup_bookmark()}><Image style={styles.bookmark} source={{uri:plate[0].bookmark}}/></TouchableOpacity>
             </View>    
             </View>
             <View style={styles.titleContainer}>
             <View style={styles.titleContainer_text}>       
-                <Text style={styles.best_level_time}>{plate.best}  {plate.level}  {plate.time}</Text>
+                <Text style={styles.best_level_time}>열량-{plate[1].CALORIE}  난이도-{plate[1].LEVEL_NM}  조리-{plate[1].COOKING_TIME}</Text>
             </View>
             <View style={styles.buttonContainer}>
             </View>    
   
             </View>
             <View style={styles.textContainer_main}>
-                <Text style={styles.desc}>{plate.desc}</Text>
+                <Text style={styles.desc}>{plate[1].SUMRY}</Text>
                 <Text style={styles.ingredient_title}>재료</Text> 
-                <Text style={styles.ingredient}>{plate.ingredient}</Text>
+                <Text style={styles.ingredient}>{plate[2].IRDNT_NM}{plate[2].IRDNT_CPCTY}</Text>
             </View>
             <View style={styles.ingredientContainer}>
             <View style={styles.ingredientContainer_detail}>
-            <Image style={styles.image_ingredient} source={{uri:plate.ingredient00}}/></View>
-            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate.ingredient01}}/></View>
-            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate.ingredient02}}/></View>
-            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate.ingredient03}}/></View>
+            <Image style={styles.image_ingredient} source={{uri:plate[0].ingredient00}}/></View>
+            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate[0].ingredient01}}/></View>
+            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate[0].ingredient02}}/></View>
+            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate[0].ingredient03}}/></View>
             </View>
             <View style={styles.ingredientContainer}>
-            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate.ingredient04}}/></View>
-            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate.ingredient05}}/></View>
-            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate.ingredient06}}/></View>
-            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate.ingredient07}}/></View>
+            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate[0].ingredient04}}/></View>
+            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate[0].ingredient05}}/></View>
+            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate[0].ingredient06}}/></View>
+            <View style={styles.ingredientContainer_detail}><Image style={styles.image_ingredient} source={{uri:plate[0].ingredient07}}/></View>
             </View>
             <View style={styles.textContainer_main}>
                 <Text style={styles.ingredient_title}>레시피</Text> 
@@ -107,16 +147,11 @@ export default function DetailPage({navigation,route}) {
             <Text style={styles.ingredient_title}>동영상 링크</Text> 
             </View>
             <View style={styles.textContainer_main}>
-                <Text style={styles.recipe}> {plate.recipe00} </Text>
-                <Text style={styles.recipe}> {plate.recipe01} </Text>
-                <Text style={styles.recipe}> {plate.recipe02} </Text>
-                <Text style={styles.recipe}> {plate.recipe03} </Text>
-                <Text style={styles.recipe}> {plate.recipe04} </Text>
-                <Text style={styles.recipe}> {plate.recipe05} </Text>
-                <Text style={styles.recipe}> {plate.recipe06} </Text>
-                <Text style={styles.recipe}> {plate.recipe07} </Text>
+                <Text style={styles.recipe}> {plate[3].COOKING_NO}. {plate[3].COOKING_DC} </Text>
+                <Image style={styles.image_description} source={{uri:plate[3].STRE_STEP_IMAGE_URL}}/>
             </View>
             </ScrollView>
+
             <View style={styles.container_menu}>
             <Text style={styles.menu_title}>Home 1Plate + Myplate Bookmark</Text>
             </View>
@@ -168,6 +203,17 @@ const styles = StyleSheet.create({
         flex:1,
         marginRight:3,
         marginLeft:3,
+        justifyContent:'center',
+        alignItems:'center'
+    },
+    image_description:{
+        width:300,
+        height:300,
+        marginTop:5,
+        marginBottom:5,
+        marginLeft:5,
+        marginRight:5,
+        resizeMode: "center",
         justifyContent:'center',
         alignItems:'center'
     },

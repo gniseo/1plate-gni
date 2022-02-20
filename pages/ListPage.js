@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import {SafeAreaView, StyleSheet, Text, View, Image, ScrollView, TouchableOpacity, Alert, ImageBackground} from 'react-native';
+import {SafeAreaView, StyleSheet, Text, View, Image, ScrollView, TouchableOpacity, Alert} from 'react-native';
 
 import recipe_main from '../recipe_main.json'
 import recipe_ingredient from '../recipe_ingredient.json'
@@ -9,12 +9,13 @@ import Loading from '../components/Loading';
 const ListPage = ({navigation,route}) => {
 
     const oneplate = route.params
+    const selectedOneplate = oneplate.oneplate.map(ingredient=>ingredient.recipe);
     const [recipeMainState, setRecipeMainState] = useState([])
     const [recipeIngredientState, setRecipeIngredientState] = useState([])
     const [ready, setReady] = useState(true)
 
     useEffect(() => {
-        console.log(oneplate.oneplate)
+        console.log(selectedOneplate)
         setTimeout(() => {
           navigation.setOptions({
             title:'1Plate',
@@ -76,6 +77,22 @@ const ListPage = ({navigation,route}) => {
     const Detail = () => {
         navigation.navigate('DetailPage',{RECIPE_ID:stateIngredient.RECIPE_ID})
     }
+    const setCate = (cate) => {
+        if (cate == "오늘의한그릇") {
+        navigation.navigate('ListPage',{oneplate:oneplate})
+        } else if(cate == "한그릇북마크") {
+        navigation.navigate('BookmarkPage',{oneplate:oneplate})   
+        } else {
+        Alert.alert("준비중입니다.")
+        }}
+    const IngredientSelect = (ingredient,i) => {
+        const selectedIngredients = recipeIngredientState.map((content) => content.IRDNT_NM === ingredient)
+        setStateIngredient(selectedIngredients);
+    }
+    const MainSelect = (ingredient,i) => {
+        const selectedMenu = recipeMainState.map((content) => content.RECIPE_ID === ingredient)
+        setStateMain(selectedMenu);
+    }
 
     return ready ? <Loading/> : (
         <SafeAreaView style={styles.container}>
@@ -94,16 +111,10 @@ const ListPage = ({navigation,route}) => {
           })}
         </ScrollView>
         </View>
-        <ScrollView>
-
-        {recipeIngredientState.filter ((content,i) => {
-            if (content.IRDNT_NM === oneplate.oneplate.recipe ){
-                setStateIngredient(content)}
-            })}
-        {recipeMainState.filter((content,i)=>{
-            if (content.RECIPE_ID === stateIngredient.RECIPE_ID){
-                setStateMain(content)}
-                })}
+        <ScrollView>    
+        {selectedOneplate.map((ingredient,i) => {
+            IngredientSelect(ingredient,i)
+            MainSelect(ingredient,i)})}
         {stateMain.map((content) => {
             const value={content};
                 return (                     
