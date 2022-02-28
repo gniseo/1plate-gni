@@ -105,7 +105,7 @@ const ListPage = ({navigation,route}) => {
         </ScrollView>
         </View>
             <ScrollView>            
-            {selectedOneplate.map((content,i) => {
+            {selectedOneplate.map((content) => {
                 const SelectedIngredient = recipeIngredientState.filter((ingredient) => content.indexOf(ingredient.IRDNT_NM) != -1)
                 const SelectedRecipeID = SelectedIngredient.filter((ingredient,i) => {
                     return (
@@ -118,7 +118,7 @@ const ListPage = ({navigation,route}) => {
                     console.log(stateIngredient);
                 }, [])})};
 
-            {stateIngredient.map((content,i) => {
+            {stateIngredient.map((content) => {
                 const SelectedMenu = recipeMainState.filter((recipe) => content.indexOf(recipe.RECIPE_ID) != -1)
                 useEffect(()=> {
                     setStateMain(SelectedMenu)
