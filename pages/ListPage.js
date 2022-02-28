@@ -3,8 +3,6 @@ import {SafeAreaView, StyleSheet, Text, View, Image, ScrollView, TouchableOpacit
 
 import recipe_main from '../recipe_main.json'
 import recipe_ingredient from '../recipe_ingredient.json'
-//import Loading from '../components/Loading';
-
 
 const ListPage = ({navigation,route}) => {
 
@@ -12,7 +10,6 @@ const ListPage = ({navigation,route}) => {
     const selectedOneplate = oneplate.oneplate.map(ingredient=>ingredient.recipe);
     const [recipeMainState, setRecipeMainState] = useState([])
     const [recipeIngredientState, setRecipeIngredientState] = useState([])
-    //const [ready, setReady] = useState(true)
 
     useEffect(() => {
         console.log(selectedOneplate)
