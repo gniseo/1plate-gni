@@ -8,8 +8,6 @@ const HomePage =({navigation,route}) => {
   const initialCateState = data.ingredient.map(i => ({...i, focus: false}))
   const [state, setState] = useState([])
   const [cateState, setCateState] = useState([])
-  const [imageState, setImageState] = useState([])
-  const [props, setProps] = useState([])
   const [ready, setReady] = useState(true)
 
   const [category, setCategory] = useState([
@@ -50,7 +48,7 @@ const HomePage =({navigation,route}) => {
       }))
     }
   }
-  const IngredientTouch = () => {
+  const IngredientImages = () => {
     const selectedIngredients = cateState.filter(ingredient=>ingredient.focus);
     navigation.navigate('ListPage', {oneplate: selectedIngredients})
   }
@@ -74,7 +72,7 @@ const HomePage =({navigation,route}) => {
             </View>
           </ImageBackground>
 
-          <TouchableOpacity style={styles.image_logo} onPress={IngredientTouch}>
+          <TouchableOpacity style={styles.image_logo} onPress={IngredientImages}>
             <Image style={styles.image_logo} source={{uri: plate_empty.image_logo}}/>
           </TouchableOpacity>
         </View>

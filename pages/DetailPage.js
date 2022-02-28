@@ -19,9 +19,6 @@ export default function DetailPage({navigation,route}) {
         "IMG_URL":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fplate_avocadoshrimp.png?alt=media&token=d496a777-20b0-4bf3-bc65-432d5252223f",
         "favorite":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Ffavoriteon.png?alt=media&token=ecc3235f-9e9d-4980-8463-eb9df2f01ec9",
         "bookmark":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fbookmarkon.png?alt=media&token=7502b32c-3641-4ecd-970b-2b431e79c344",
-        "best" : "BEST2021",
-        "level" : "난이도3.0",
-        "time" : "조리20분이내",
         "desc":"20분이면 근사한 덮밥 한그릇을 뚝딱~ 성수맛집 줄서서 먹던 그 아보카도덮밥 간단히 만드는 비법",
         "ingredient" : "새우2마리, 아보카도¼, 계란1개, 밥150g, 두부¼, 김가루, 통참깨, 카레100g",
         "ingredient00" : "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fshrimp_large.png?alt=media&token=433fd709-c0cd-4573-bcba-9cf5f799d467",
@@ -34,12 +31,6 @@ export default function DetailPage({navigation,route}) {
         "ingredient07" : "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fcurry.png?alt=media&token=d1b951c7-135c-461a-8f89-89fed1c186a7",
         "recipe00" : "1. 새우를 씻어 손질한다. 냉동한것은 잘 씻어 물기를 뺀다.",
         "recipe01" : "2. 아보카도는 내부의 씨를 제거한 후에 ¼을 썰어 길게 모양을 내어 썬다.",
-        "recipe02" : "3. 두부는 3cm의 깍뚝썰기로 썰어 물기를 빼고 후라이팬에 구워준비한다.",
-        "recipe03" : "4. 계란1개를 후라이팬에 후라이를 해준다.",
-        "recipe04" : "5. 카레는 100g을 물 100ml에 잘 갠 후 냄비에 넣고 끓여준다.",
-        "recipe05" : "6. 따뜻한 밥을 한공기 준비하여 카레소스를 밥 주변에 뿌린다.",
-        "recipe06" : "7. 그 위에 준비해둔 새우, 아보카도, 두부를 순서대로 얹고계란을  올려준다.",
-        "recipe07" : "8. 맨 마지막에 김가루와 통참깨를 뿌려 보기 좋게 준비하면 완성.",
         "favorite_count":"53"
     },
     {
