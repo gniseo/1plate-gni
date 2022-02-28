@@ -3,7 +3,7 @@ import {SafeAreaView, StyleSheet, Text, View, Image, ScrollView, TouchableOpacit
 
 import recipe_main from '../recipe_main.json'
 import recipe_ingredient from '../recipe_ingredient.json'
-import Loading from '../components/Loading';
+//import Loading from '../components/Loading';
 
 
 const ListPage = ({navigation,route}) => {
@@ -12,7 +12,7 @@ const ListPage = ({navigation,route}) => {
     const selectedOneplate = oneplate.oneplate.map(ingredient=>ingredient.recipe);
     const [recipeMainState, setRecipeMainState] = useState([])
     const [recipeIngredientState, setRecipeIngredientState] = useState([])
-    const [ready, setReady] = useState(true)
+    //const [ready, setReady] = useState(true)
 
     useEffect(() => {
         console.log(selectedOneplate)
@@ -24,8 +24,8 @@ const ListPage = ({navigation,route}) => {
           setRecipeMainState(recipe_main.data)
           setRecipeIngredientState(recipe_ingredient.data)
           setCategory(category)
-          setReady(false)
-        }, 1000)
+          //setReady(false)
+        }, 2000)
       }, [])
 
     const [category, setCategory] = useState([
@@ -35,7 +35,18 @@ const ListPage = ({navigation,route}) => {
         {name: '한그릇스토어', focus: false},
         {name: '식재료보관팁', focus: false}
       ])
-      
+
+      const [stateIngredient, setStateIngredient] = useState([
+        {
+            "RECIPE_ID": 1,
+            "IRDNT_SN": 1,
+            "IRDNT_NM": "쌀",
+            "IRDNT_CPCTY": "4컵",
+            "IRDNT_TY_CODE": 3060001,
+            "IRDNT_TY_NM": "주재료"
+          }
+    ])
+
       const [stateMain, setStateMain] = useState([
         {
             "RECIPE_ID": 1,
@@ -57,16 +68,6 @@ const ListPage = ({navigation,route}) => {
             "bookmark":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fbookmarkon.png?alt=media&token=7502b32c-3641-4ecd-970b-2b431e79c344",
             "favorite_count":"53"}
     ])
-    const [stateIngredient, setStateIngredient] = useState([
-        {
-            "RECIPE_ID": 25,
-            "IRDNT_SN": 259,
-            "IRDNT_NM": "다진마늘",
-            "IRDNT_CPCTY": "1작은술",
-            "IRDNT_TY_CODE": 3060003,
-            "IRDNT_TY_NM": "양념"
-          }
-    ])
 
     const popup_favorite = () => {
         Alert.alert("좋아요!")
@@ -85,16 +86,8 @@ const ListPage = ({navigation,route}) => {
         } else {
         Alert.alert("준비중입니다.")
         }}
-    const IngredientSelect = (ingredient,i) => {
-        const selectedIngredients = recipeIngredientState.map((content) => content.IRDNT_NM === ingredient)
-        setStateIngredient(selectedIngredients);
-    }
-    const MainSelect = (ingredient,i) => {
-        const selectedMenu = recipeMainState.map((content) => content.RECIPE_ID === ingredient)
-        setStateMain(selectedMenu);
-    }
 
-    return ready ? <Loading/> : (
+    return (
         <SafeAreaView style={styles.container}>
         <View style={styles.container_top}>
         <ScrollView style={styles.topContainer} horizontal indicatorStyle={"white"}>
@@ -111,20 +104,34 @@ const ListPage = ({navigation,route}) => {
           })}
         </ScrollView>
         </View>
-        <ScrollView>    
-        {selectedOneplate.map((ingredient,i) => {
-            IngredientSelect(ingredient,i)
-            MainSelect(ingredient,i)})}
-        {stateMain.map((content) => {
-            const value={content};
-                return (                     
-                <TouchableOpacity style={styles.container_main} onPress={() => Detail()}>
+            <ScrollView>            
+            {selectedOneplate.map((content,i) => {
+                const SelectedIngredient = recipeIngredientState.filter((ingredient) => content.indexOf(ingredient.IRDNT_NM) != -1)
+                const SelectedRecipeID = SelectedIngredient.filter((ingredient,i) => {
+                    return (
+                        SelectedIngredient.findIndex((ingredient2,j) => {
+                            return ingredient.RECIPE_ID === ingredient2.RECIPE_ID;
+                        }) === i );
+                    });
+                useEffect(()=> {
+                    setStateIngredient(SelectedRecipeID);
+                    console.log(stateIngredient);
+                }, [])})};
+
+            {stateIngredient.map((content,i) => {
+                const SelectedMenu = recipeMainState.filter((recipe) => content.indexOf(recipe.RECIPE_ID) != -1)
+                useEffect(()=> {
+                    setStateMain(SelectedMenu)
+                    console.log(stateMain)
+                }, [])})}
+
+            {stateMain.map((value) => {
+               return (         
+                <TouchableOpacity style={styles.container_main} onPress={() => Detail()}> 
                 <View style={styles.imageContainer}>
-                {/*recipe_main.jason */}
                     <Image style={styles.image} source={{uri:value.IMG_URL}}/>
                 <View style={styles.cardContainer}>
                     <View style={styles.titleContainer}>
-                {/*recipe_main.jason */}
                     <View style={styles.maintitleContainer}>
                     <View style={styles.maintitleContainer}>
                         <Text style={styles.title} numberOfLines={2}>{value.RECIPE_NM_KO}</Text> 
@@ -151,11 +158,10 @@ const ListPage = ({navigation,route}) => {
                     </View>
                 </View> 
                 <View style={styles.bestContainer}>       
-                <Text style={styles.best_level_time}>열량-{value.CALORIE}  난이도-{value.LEVEL_NM}  조리-{content.COOKING_TIME}</Text>
+                <Text style={styles.best_level_time}>열량-{value.CALORIE}  난이도-{value.LEVEL_NM}  조리-{value.COOKING_TIME}</Text>
                 </View> 
                 <View style={styles.textContainer}>  
-                <Text style={styles.desc} numberOfLines='3'>{value.SUMRY}  </Text>
-                )                    
+                <Text style={styles.desc} numberOfLines={3}>{value.SUMRY}  </Text>             
                 </View>   
             </View>
             </View>
