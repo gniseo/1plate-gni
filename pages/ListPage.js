@@ -21,8 +21,7 @@ const ListPage = ({navigation,route}) => {
           setRecipeMainState(recipe_main.data)
           setRecipeIngredientState(recipe_ingredient.data)
           setCategory(category)
-          //setReady(false)
-        }, 2000)
+        }, 1000)
       }, [])
 
     const [category, setCategory] = useState([
