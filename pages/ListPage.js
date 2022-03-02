@@ -168,7 +168,6 @@ const ListPage = ({navigation,route}) => {
             <Text style={styles.menu_title}>Home 1Plate + Myplate Bookmark</Text>
             </View>
         </SafeAreaView>
-    
     )
 };
 const styles = StyleSheet.create({
@@ -342,8 +341,7 @@ const styles = StyleSheet.create({
         fontSize: 20,
         fontWeight: '500',
         color: "#ffffff",
-      },
-    
+      }
 })
 
 export default ListPage;
