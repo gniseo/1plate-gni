@@ -10,20 +10,6 @@ const ListPage = ({navigation,route}) => {
     const selectedOneplate = oneplate.oneplate.map(ingredient=>ingredient.recipe);
     const [recipeMainState, setRecipeMainState] = useState([])
     const [recipeIngredientState, setRecipeIngredientState] = useState([])
-
-    useEffect(() => {
-        console.log(selectedOneplate)
-        setTimeout(() => {
-          navigation.setOptions({
-            title:'1Plate',
-            headerStyle: {backgroundColor: '#ece0d0'}
-           })
-          setRecipeMainState(recipe_main.data)
-          setRecipeIngredientState(recipe_ingredient.data)
-          setCategory(category)
-        }, 1000)
-      }, [])
-
     const [category, setCategory] = useState([
         {name: '오늘의한그릇', focus: true},
         {name: '한그릇북마크', focus: false},
@@ -31,7 +17,6 @@ const ListPage = ({navigation,route}) => {
         {name: '한그릇스토어', focus: false},
         {name: '식재료보관팁', focus: false}
       ])
-
       const [stateIngredient, setStateIngredient] = useState([
         {
             "RECIPE_ID": 1,
@@ -42,7 +27,6 @@ const ListPage = ({navigation,route}) => {
             "IRDNT_TY_NM": "주재료"
           }
     ])
-
       const [stateMain, setStateMain] = useState([
         {
             "RECIPE_ID": 1,
@@ -64,7 +48,6 @@ const ListPage = ({navigation,route}) => {
             "bookmark":"https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fbookmarkon.png?alt=media&token=7502b32c-3641-4ecd-970b-2b431e79c344",
             "favorite_count":"53"}
     ])
-
     const popup_favorite = () => {
         Alert.alert("좋아요!")
     }
@@ -76,12 +59,42 @@ const ListPage = ({navigation,route}) => {
     }
     const setCate = (cate) => {
         if (cate == "오늘의한그릇") {
-        navigation.navigate('ListPage',{oneplate:oneplate})
+        navigation.navigate('ListPage')
         } else if(cate == "한그릇북마크") {
         navigation.navigate('BookmarkPage',{oneplate:oneplate})   
         } else {
         Alert.alert("준비중입니다.")
         }}
+
+    useEffect(()=> {
+        console.log(selectedOneplate)
+        setTimeout(() => {
+              navigation.setOptions({
+                title:'1Plate',
+                headerStyle: {backgroundColor: '#ece0d0'}
+               })
+              setRecipeMainState(recipe_main.data)
+              setRecipeIngredientState(recipe_ingredient.data)
+              setCategory(category)
+            }, 1000)
+
+        selectedOneplate.map((content) => {
+            const SelectedIngredient = recipeIngredientState.filter((ingredient) => content.indexOf(ingredient.IRDNT_NM) != -1)
+            const SelectedRecipeID = SelectedIngredient.filter((ingredient,i) => {
+                return (
+                    SelectedIngredient.findIndex((ingredient2,j) => {
+                        return ingredient.RECIPE_ID === ingredient2.RECIPE_ID;
+                    }) === i );
+                });
+            setStateIngredient(SelectedRecipeID);
+            console.log(stateIngredient);
+            })
+        stateIngredient.map((content) => {
+            const SelectedMenu = recipeMainState.filter((recipe) => content.indexOf(recipe.RECIPE_ID) != -1)
+            setStateMain(SelectedMenu)
+            console.log(stateMain)
+            })
+    }, [])
 
     return (
         <SafeAreaView style={styles.container}>
@@ -101,26 +114,7 @@ const ListPage = ({navigation,route}) => {
         </ScrollView>
         </View>
             <ScrollView>            
-            {selectedOneplate.map((content) => {
-                const SelectedIngredient = recipeIngredientState.filter((ingredient) => content.indexOf(ingredient.IRDNT_NM) != -1)
-                const SelectedRecipeID = SelectedIngredient.filter((ingredient,i) => {
-                    return (
-                        SelectedIngredient.findIndex((ingredient2,j) => {
-                            return ingredient.RECIPE_ID === ingredient2.RECIPE_ID;
-                        }) === i );
-                    });
-                useEffect(()=> {
-                    setStateIngredient(SelectedRecipeID);
-                    console.log(stateIngredient);
-                }, [])})};
-
-            {stateIngredient.map((content) => {
-                const SelectedMenu = recipeMainState.filter((recipe) => content.indexOf(recipe.RECIPE_ID) != -1)
-                useEffect(()=> {
-                    setStateMain(SelectedMenu)
-                    console.log(stateMain)
-                }, [])})}
-
+           
             {stateMain.map((value) => {
                return (         
                 <TouchableOpacity style={styles.container_main} onPress={() => Detail()}> 
