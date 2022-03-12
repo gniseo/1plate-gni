@@ -4,6 +4,8 @@ import { createStackNavigator } from '@react-navigation/stack';
 import HomePage from '../pages/HomePage';
 import ListPage from '../pages/ListPage';
 import DetailPage from '../pages/DetailPage';
+import BookmarkPage from '../pages/BookmarkPage';
+import SeasonPage from '../pages/SeasonPage';
 
 const Stack = createStackNavigator();
 
@@ -34,6 +36,8 @@ const StackNavigator = () =>{
             <Stack.Screen name="HomePage" component={HomePage}/>
             <Stack.Screen name="ListPage" component={ListPage}/>
             <Stack.Screen name="DetailPage" component={DetailPage}/>
+            <Stack.Screen name="BookmarkPage" component={BookmarkPage}/>
+            <Stack.Screen name="SeasonPage" component={SeasonPage}/>
 
 
 

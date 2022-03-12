@@ -5,7 +5,7 @@ import recipe_main from '../recipe_main.json'
 import recipe_ingredient from '../recipe_ingredient.json'
 import Card from '../components/Card.js';
 
-const ListPage = ({navigation, route}) => {
+const BookmarkPage = ({navigation, route}) => {
 
     const oneplate = route.params
     const selectedOneplate = oneplate.oneplate.map(ingredient => ingredient.recipe);
@@ -32,10 +32,10 @@ const ListPage = ({navigation, route}) => {
     }
 
     useEffect(() => {
-        console.log(selectedOneplate)
+        console.log(oneplate)
         setTimeout(() => {
             navigation.setOptions({
-                title: '오늘의한그릇',
+                title: '한그릇북마크',
                 headerStyle: {backgroundColor: '#ece0d0'},
                 headerTintColor: "#6b5165",
             })
@@ -44,8 +44,8 @@ const ListPage = ({navigation, route}) => {
     }, [])
 
     const [category, setCategory] = useState([
-        {name: '오늘의한그릇', focus: true},
-        {name: '한그릇북마크', focus: false},
+        {name: '오늘의한그릇', focus: false},
+        {name: '한그릇북마크', focus: true},
         {name: '계절식한그릇', focus: false},
         {name: '한그릇스토어', focus: false},
         {name: '식재료보관팁', focus: false}
@@ -291,4 +291,4 @@ const styles = StyleSheet.create({
       }
 })
 
-export default ListPage;
+export default BookmarkPage;

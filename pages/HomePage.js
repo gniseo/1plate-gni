@@ -24,7 +24,8 @@ const HomePage =({navigation,route}) => {
   const plate_empty = {
     "name" : "default",
     "image": "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fhome_plate_vide.png?alt=media&token=fdb9efd8-aaa0-4ce9-8216-e12c26dd445f",
-    "image_logo": "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Flogo%2Flogo_wh.png?alt=media&token=46a0a3ac-ba98-47e5-b882-9863df75126b",
+    "image_emptylogo": "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Flogo%2Flogo_wh.png?alt=media&token=46a0a3ac-ba98-47e5-b882-9863df75126b",
+    "image_fulllogo": "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Flogo%2Flogo_vi.png?alt=media&token=86f651a7-08b4-449c-8bdd-319b2c40fea1",
     "empty": "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Ftomato.png?alt=media&token=b984afba-7e71-4740-96b7-c5fb6cc0279c"
   }
   navigation.setOptions({
@@ -52,6 +53,12 @@ const HomePage =({navigation,route}) => {
     const selectedIngredients = cateState.filter(ingredient=>ingredient.focus);
     navigation.navigate('ListPage', {oneplate: selectedIngredients})
   }
+  const cateCount = (content,i) => {
+    const Count = Object.keys(cateState.filter(ingredient=>ingredient.focus)).length;
+    if (Count<4) {
+      setCateState(cateState.map(i => i.recipe === content.recipe ? {...i, focus: !i.focus} : {...i}));
+    } else {Alert.alert("재료는 4가지만 선택가능합니다")}
+  }
 
   return ready ? <Loading/> : (
     <SafeAreaView style={styles.container}>
@@ -73,7 +80,7 @@ const HomePage =({navigation,route}) => {
           </ImageBackground>
 
           <TouchableOpacity style={styles.image_logo} onPress={IngredientImages}>
-            <Image style={styles.image_logo} source={{uri: plate_empty.image_logo}}/>
+            <Image style={styles.image_logo} source={{uri: plate_empty.image_emptylogo}}/>
           </TouchableOpacity>
         </View>
 
@@ -94,20 +101,15 @@ const HomePage =({navigation,route}) => {
         <View style={styles.textContainer}>
           {cateState.map((content,i) => {
             return (
-              <TouchableOpacity style={styles.textContainer_button} onPress={() => {
-                setCateState(cateState.map(i => i.recipe === content.recipe ? {...i, focus: !i.focus} : {...i}));
-              }}>
+              <TouchableOpacity style={styles.textContainer_button} onPress={() => cateCount(content,i)}>
                 <Text style={content.focus ? styles.ingredient_focus : styles.ingredient_notfocus}> {content.recipe} </Text>
-
               </TouchableOpacity>
-            )
-          })
-          }
+            )})}
         </View>
       </ScrollView>
-      <View style={styles.container_menu}>
+      {/*<View style={styles.container_menu}>
         <Text style={styles.menu_title}>Home 1Plate + Myplate Bookmark</Text>
-      </View>
+        </View>*/}
     </SafeAreaView>
   )
 };

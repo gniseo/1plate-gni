@@ -3,15 +3,13 @@ import {SafeAreaView, StyleSheet, Text, View, Image, ScrollView, TouchableOpacit
 
 import recipe_main from '../recipe_main.json'
 import recipe_ingredient from '../recipe_ingredient.json'
-import Card from '../components/Card.js';
 
-const ListPage = ({navigation, route}) => {
+const SeasonPage = ({navigation, route}) => {
 
     const oneplate = route.params
     const selectedOneplate = oneplate.oneplate.map(ingredient => ingredient.recipe);
     const initialIngredientState = recipe_main.data.map(i => ({...i, 
         "favorite_focus": false,
-        "favorite_count": 0,
         "bookmark_focus": false
     }))
     const URL = {
@@ -20,24 +18,13 @@ const ListPage = ({navigation, route}) => {
         bookmark_on : "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fbookmarkon.png?alt=media&token=7502b32c-3641-4ecd-970b-2b431e79c344",
         bookmark_off : "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fbookmarkoff..png?alt=media&token=d57b03fd-1fd7-43f2-8692-2eaf89d0806d"
     }
-    const popup_favorite = () => {
-        Alert.alert("좋아요!")
-    }
-    const popup_bookmark = () => {
-        Alert.alert("북마크!")
-    }
-    const Detail = (content) => {
-        //const selectedRecipe = stateMain.map(ingredient=>ingredient.focus);
-        navigation.navigate('DetailPage', {oneplate:content})
-    }
 
     useEffect(() => {
         console.log(selectedOneplate)
         setTimeout(() => {
             navigation.setOptions({
                 title: '오늘의한그릇',
-                headerStyle: {backgroundColor: '#ece0d0'},
-                headerTintColor: "#6b5165",
+                headerStyle: {backgroundColor: '#ece0d0'}
             })
             setCategory(category)
         }, 1000)
@@ -53,26 +40,37 @@ const ListPage = ({navigation, route}) => {
 
     const [stateMain, setStateMain] = useState([
         {
-            "RECIPE_ID": 9,
-            "RECIPE_NM_KO": "오므라이스",
-            "SUMRY": "각종 채소를 계란 속에 꼭꼭 숨겨 편식하는 아이들도 맛있게 먹어요~",
-            "NATION_CODE": 3020002,
-            "NATION_NM": "서양",
+            "RECIPE_ID": 1,
+            "RECIPE_NM_KO": "나물비빔밥",
+            "SUMRY": "육수로 지은 밥에 야채를 듬뿍 넣은 영양만점 나물비빔밥!",
+            "NATION_CODE": 3020001,
+            "NATION_NM": "한식",
             "TY_CODE": 3010001,
             "TY_NM": "밥",
-            "COOKING_TIME": "30분",
-            "CALORIE": "630Kcal",
+            "COOKING_TIME": "60분",
+            "CALORIE": "580Kcal",
             "QNT": "4인분",
-            "LEVEL_NM": "초보환영",
+            "LEVEL_NM": "보통",
             "IRDNT_CODE": "곡류",
-            "PC_NM": "",
-            "IMG_URL": "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fommerice.png?alt=media&token=acc6b164-4d04-4c74-be2e-b93dc6719880",
-            "ORG_URL": "http://file.okdab.com/UserFiles/searching/recipe/001800.jpg",
-            "DET_URL": "http://www.okdab.com/consumer/recipe/recipeView.do?recipeSn=9"
+            "PC_NM": "5,000원",
+            "IMG_URL": "http://file.okdab.com/UserFiles/searching/recipe/000200.jpg",
+            "DET_URL": "http://www.okdab.com/consumer/recipe/recipeView.do?recipeSn=1",
+            "favorite": "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Ffavoriteon.png?alt=media&token=ecc3235f-9e9d-4980-8463-eb9df2f01ec9",
+            "bookmark": "https://firebasestorage.googleapis.com/v0/b/plate-gni.appspot.com/o/images%2Ficon%2Fbookmarkon.png?alt=media&token=7502b32c-3641-4ecd-970b-2b431e79c344",
+            "favorite_count": "53"
         }
     ])
 
-
+    const popup_favorite = () => {
+        Alert.alert("좋아요!")
+    }
+    const popup_bookmark = () => {
+        Alert.alert("북마크!")
+    }
+    const Detail = (value) => {
+        //const selectedRecipe = stateMain.map(ingredient=>ingredient.focus);
+        navigation.navigate('DetailPage', {oneplate:value})
+    }
     const setCate = (cate) => {
         if (cate == "오늘의한그릇") {
             navigation.navigate('ListPage', {oneplate: oneplate})
@@ -107,9 +105,47 @@ const ListPage = ({navigation, route}) => {
                 </ScrollView>
             </View>
             <ScrollView>
-                {stateMain.map((content,i) => {
+                {stateMain.map((value) => {
                     return (
-                        <Card content={content} key={i} navigation={navigation}/>)})}
+                    <TouchableOpacity style={styles.container_main} onPress={() => Detail(value)}>
+                    <View style={styles.imageContainer}>
+                    <Image style={styles.image} source={{uri: value.IMG_URL}}/>
+                    <View style={styles.cardContainer}>
+                    <View style={styles.titleContainer}>
+                    <View style={styles.maintitleContainer}>
+                    <View style={styles.maintitleContainer}>
+                    <Text style={styles.title} numberOfLines={1}>{value.RECIPE_NM_KO}</Text>
+                    </View>
+                    </View>
+                    <View style={styles.buttontitleContainer}>
+                    <View style={styles.buttonContainer}>
+                    <TouchableOpacity style={styles.favorite} onPress={() => popup_favorite()}>
+                    <Image style={styles.favorite} source={value.favorite_focus ? {uri: URL.favorite_on} : {uri: URL.favorite_off}}/>
+                    </TouchableOpacity>
+                    </View>
+                    <View style={styles.buttoncountContainer}>
+                    <Text style={styles.favorite_count}>{value.favorite_count}</Text>
+                    </View>
+                    </View>
+                    <View style={styles.buttontitleContainer}>
+                    <View style={styles.buttonContainer}>
+                    <TouchableOpacity style={styles.bookmark} onPress={() => popup_bookmark()}>
+                    <Image style={styles.bookmark} source={value.bookmark_focus ? {uri: URL.bookmark_on} : {uri: URL.bookmark_off}}/></TouchableOpacity>
+                    </View>
+                    <View style={styles.buttoncountContainer}>
+                    <Text style={styles.favorite_count}> </Text>
+                    </View>
+                    </View>
+                    </View>
+                    <View style={styles.bestContainer}>
+                    <Text style={styles.best_level_time}>#{value.TY_NM} #{value.CALORIE} #{value.LEVEL_NM} #{value.COOKING_TIME}</Text>
+                    </View>
+                    <View style={styles.textContainer}>
+                    <Text style={styles.desc} numberOfLines={3}>{value.SUMRY}  </Text>
+                    </View>
+                    </View>
+                    </View>
+                    </TouchableOpacity>)})}
             </ScrollView>
             {/*<View style={styles.container_menu}>
                 <Text style={styles.menu_title}>Home 1Plate + Myplate Bookmark</Text>
@@ -291,4 +327,4 @@ const styles = StyleSheet.create({
       }
 })
 
-export default ListPage;
+export default SeasonPage;
